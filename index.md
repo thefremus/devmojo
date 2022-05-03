@@ -21,3 +21,13 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 
 - [What is Span in C# and why you should be using it](https://www.youtube.com/watch?v=FM5dpxJMULY)
 - [How Controller behaviour changed in .NET 7](https://www.youtube.com/watch?v=r5VJIz25PPY)
+- [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
+
+## Reading
+
+- [Enjoy Using Mapster in .Net 6](https://medium.com/@M-S-2/enjoy-using-mapster-in-net-6-2d3f287a0989)
+- [8 quick tips to improve your .NET API](https://medium.com/neogrid/8-quick-tips-to-improve-your-net-api-6c44faf258e0)
+- [.Net 6 vs .Net 5: How .Net 6 Has Changed the Game of Software Development?](https://blogs.ashutec.com/net-6-vs-net-5-how-net-6-has-changed-the-game-of-software-development-8b3503de7643)
+- [A common mistake almost all the developer does in the Entity Framework](https://medium.com/abhima-c-programming/a-common-mistake-almost-all-the-developer-does-in-the-entity-framework-41b52d3d3193)
+- [C# 6 Performance Tricks](https://ikbalkazanc.medium.com/c-6-performance-tricks-ae749a7a8c45)
+- [5 Good Practices for Error Handling in C#](https://medium.com/dotnetsafer/5-good-practices-for-error-handling-in-c-9faee15404fa)
