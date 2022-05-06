@@ -18,7 +18,7 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 
 1. Reading code from repositories
 2. Watching video material
-3. Reading books
+3. Reading books/articles
 4. Writing your own code
 
 ## .NET
@@ -51,3 +51,10 @@ An interesting way to do (API Versioning)[https://github.com/dotnet/aspnet-api-v
 - [Real-world open-source project based on .NET 6 with DDD, ES, CQRS, Testing concepts](https://medium.com/@hamed.shirbandi/real-world-open-source-project-based-on-ddd-es-cqrs-af261cc24353)
 - [The 10 Commandments .NET Developers Must apply for Secure Applications](https://medium.com/dotnetsafer/the-10-commandments-net-developers-must-apply-for-secure-applications-a11bee856e9a)
 - [Generating Class Diagrams for .Net Core](https://medium.com/better-programming/generating-class-diagrams-for-net-core-c4913db9398b)
+- [C# programming — Top 10 useful features you should know](https://medium.com/whatfix-techblog/c-programming-top-10-useful-features-you-should-know-ef5ea1fb7c69)
+- [C# — Action vs Func](https://medium.com/@serhat21zor/c-action-vs-func-62fe917da43f)
+- [C# Type Converter](https://medium.com/c-sharp-progarmming/c-type-converter-2fec57bb1a13)
+- [C# 11 is Coming! 5 Features that will Blow your Mind 🤯](https://medium.com/dotnetsafer/c-11-is-coming-5-features-that-will-blow-your-mind-be8a736e8f71)
+- [Dependency Inversion Principle: How Google Developers write code](https://paigeshin1991.medium.com/dependency-inversion-principle-how-google-developers-write-code-f6cbd3b530a6)
+- [How to use CancellationToken in your .NET API requests](https://medium.com/geekculture/how-to-use-cancellationtoken-in-your-net-api-requests-4bdfaa9f8511)
+- [The Big Fight — Dapper vs Entity Framework 6 Detailed Benchmark](https://medium.com/@salihcantekin/the-big-fight-dapper-vs-entity-framework-detailed-benchmark-2345af933382)
