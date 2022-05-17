@@ -23,13 +23,6 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 
 ## .NET
 
-### C Sharp
-
-- [What is Span in C# and why you should be using it](https://www.youtube.com/watch?v=FM5dpxJMULY)
-- [How Controller behaviour changed in .NET 7](https://www.youtube.com/watch?v=r5VJIz25PPY)
-- [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
-- [4 C# features that you (probably) shouldn't be using](https://www.youtube.com/watch?v=yzg5-T67FCc)
-
 ### ASP.NET Core
 
 An interesting way to do (API Versioning)[https://github.com/dotnet/aspnet-api-versioning/wiki/API-Documentation]. 
@@ -38,7 +31,30 @@ An interesting way to do (API Versioning)[https://github.com/dotnet/aspnet-api-v
 
 [SpecFlow](https://specflow.org/)
 
-### Reading
+### Mapster
+
+Most or many of the projects I have been working on use AutoMapper - a popular library used to map object properties. What is the basic idea? Well in most .NET projects you usually have entities mapping to a database. You also have classes with very similar properties to the entity classes. You might not always want to expose all the properties of your entity class to a front-end application - so you use a transformation class (DTO). A DTO (Data Transformation Object) is a lightweight object used typically in API endpoints. The endpoints produce JSON in many cases. While you theoretically can expose an entity to an endpoint it does mean you are potentially rendering irrelevant information to an endpoint. You might also want to apply some logic somewhere in your layered application to return specific pieces of information. The entity class can in some cases act as a conditional variable. You can then use the entity to return a DTO based the state of an entity class. 
+
+Typically then a mapper library is used to take an entity class as an source and a DTO as a target. Most mappers also perform reverse mapping - from the DTO to the entity. Question is why would you want to do this? Well two schools of thought around mapping exist - manual mapping or auto mapping. Manual mapping is the process of generating a DTO from an entity class by using your own transformation methods. 
+
+After watching [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA) and reading [Enjoy Using Mapster in .Net 6](https://medium.com/@M-S-2/enjoy-using-mapster-in-net-6-2d3f287a0989) I felt the need to explore the word of mapping for myself. To be honest up to this point I have only seen mapping as a necessary evil - in the projects I worked on I keep using them where they are used. In some cases though I use manual mapping, especially when writing projections from an EF Core DbContext. The thing that struck me most in the video is the performance gains - the difference performance difference between manual mapping seems very little.
+
+So to get going I am going to create a small project - with a test project, and a class library. The goal is to get to the heart of the functionality - but to understand what is happening as well.
+
+## Video Learning
+
+- [What is Span in C# and why you should be using it](https://www.youtube.com/watch?v=FM5dpxJMULY)
+- [How Controller behaviour changed in .NET 7](https://www.youtube.com/watch?v=r5VJIz25PPY)
+- [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
+- [4 C# features that you (probably) shouldn't be using](https://www.youtube.com/watch?v=yzg5-T67FCc)
+- [8 await async mistakes that you SHOULD avoid in .NET](https://www.youtube.com/watch?v=lQu-eBIIh-w)
+- [C# 11's NEW elegant string conversion](https://www.youtube.com/watch?v=uoIbKO-zKeQ)
+
+### 16 May 2022
+
+- [What is .NET MAUI? - .NET Maui Crash Course #0](https://www.youtube.com/watch?v=mgW6xviirQk)
+
+## Reading
 
 - [Enjoy Using Mapster in .Net 6](https://medium.com/@M-S-2/enjoy-using-mapster-in-net-6-2d3f287a0989)
 - [8 quick tips to improve your .NET API](https://medium.com/neogrid/8-quick-tips-to-improve-your-net-api-6c44faf258e0)
@@ -58,3 +74,35 @@ An interesting way to do (API Versioning)[https://github.com/dotnet/aspnet-api-v
 - [Dependency Inversion Principle: How Google Developers write code](https://paigeshin1991.medium.com/dependency-inversion-principle-how-google-developers-write-code-f6cbd3b530a6)
 - [How to use CancellationToken in your .NET API requests](https://medium.com/geekculture/how-to-use-cancellationtoken-in-your-net-api-requests-4bdfaa9f8511)
 - [The Big Fight — Dapper vs Entity Framework 6 Detailed Benchmark](https://medium.com/@salihcantekin/the-big-fight-dapper-vs-entity-framework-detailed-benchmark-2345af933382)
+- [Different ways to implement IHttpClientFactory in .NET core apps](https://mahesh-more.medium.com/different-ways-to-implement-ihttpclientfactory-in-net-core-apps-5fd3f547a206)
+- [3 Horrible Techniques in C# You Should Avoid To Save Your Job](https://medium.com/codex/3-horrible-techniques-in-c-you-should-avoid-to-save-your-job-bc52b8ba5183)
+- [Using yield keyword to write better code in c#](https://medium.com/@amrelsher07/using-yield-keyword-to-write-better-code-in-c-1919267e5327)
+- [Creating a ASP.NET Core Web API in .NET 6 with NUXT 3](https://medium.com/@iliescu.dorin/creating-a-asp-net-core-web-api-in-net-6-with-nuxt-3-template-5720baad0530)
+- [How I refactored a nested if/else validation using a design pattern](https://medium.com/@arnab.sen44/how-i-refactored-a-nested-if-else-validation-using-a-design-pattern-ce287c32851d)
+- [10 Best C# NuGet Packages to Improve Your Productivity in 2022](https://medium.com/syncfusion/10-best-c-nuget-packages-to-improve-your-productivity-in-2022-593825ecd0b0)
+- [.NET MAUI Closer Than Ever (Discover +5 New Features)](https://medium.com/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-70386d83e56f)
+- [.NET Top NuGet Packages Every Developer Should Know In 2022](https://medium.com/@kylia669/net-top-nuget-packages-every-developer-should-know-in-2022-8929cbe178da)
+
+### 13 Nay 2022
+
+- [Microsoft .NET 6: Top 10 New Features](https://medium.com/accedia/microsoft-net-6-top-10-new-features-7464cd8c6549)
+- [Heap, Stack and Garbage Collector — A practical guide to .NET memory management system.](https://andresantarosa.medium.com/heap-stack-e-garbage-collector-a-practical-guide-to-net-memory-management-system-7e60bbadf199)
+- [.NET Core Best Practices](https://medium.com/@nilebits/net-core-best-practices-6a2a4f25de8e)
+- [A simple way to validate the data in C#](https://medium.com/abhima-c-programming/a-simple-way-to-validate-the-data-in-c-2fafb797b956)
+- [Essential 10 .NET Libraries every developer must know!](https://medium.com/dev-genius/essential-10-net-libraries-every-developer-must-know-fc413cbfab05)
+
+### 16 May 2022
+
+- [CSharpCodingStandard](https://github.com/hassanhabib/CSharpCodingStandard/blob/master/Methods.md#115-chaining-uglificationbeautification)
+- [An Elegant Way to Mock DateTime.Now in Your C# Application](https://levelup.gitconnected.com/an-elegant-way-to-mock-datetime-now-in-your-c-application-a81e59e62836)
+- [Method Code Smells and Refactorings](https://amrelsher07.medium.com/method-code-smells-and-refactorings-bd9383ee6432)
+- [Difference between IOptions, IOptionsSnapshot and IOptionsMonitor In Asp.netCore](https://alirezafarokhi.medium.com/difference-between-ioptions-ioptionssnapshot-and-ioptionsmonitor-in-asp-netcore-587954bbcea)
+- [An Introduction to Writing High-Performance C# Using Span<T> Struct](https://medium.com/@nishanc/an-introduction-to-writing-high-performance-c-using-span-t-struct-b859862a84e4)
+
+### 17 May 2022
+
+- [7 Features of Blazor That Make It an Outstanding Framework for Web Development](https://medium.com/syncfusion/7-features-of-blazor-that-make-it-an-outstanding-framework-for-web-development-205352330b8f)
+- [Using MassTransit to manage message queues](https://medium.com/geekculture/using-masstransit-to-manage-message-queues-4a4bf4103466)
+- [Experience the Adaptive UI Layout of Blazor DataGrid for All Devices](https://medium.com/syncfusion/experience-the-adaptive-ui-layout-of-blazor-datagrid-for-all-devices-7173e6c68e43)
+- [Why you shouldn’t call .Result when dealing with async code in C#](https://medium.com/@jamie-burns/why-you-shouldnt-call-result-when-dealing-with-async-code-in-c-affee2142c86)
+- [What is Method Idempotence?](https://medium.com/@yildiraygemuk/what-is-method-idempotence-cfedf2c0194d)
