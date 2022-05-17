@@ -25,7 +25,7 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 
 ### ASP.NET Core
 
-An interesting way to do (API Versioning)[https://github.com/dotnet/aspnet-api-versioning/wiki/API-Documentation]. 
+An interesting way to do [API Versioning](https://github.com/dotnet/aspnet-api-versioning/wiki/API-Documentation). 
 
 ### SpecFlow
 
@@ -83,7 +83,7 @@ So to get going I am going to create a small project - with a test project, and 
 - [.NET MAUI Closer Than Ever (Discover +5 New Features)](https://medium.com/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-70386d83e56f)
 - [.NET Top NuGet Packages Every Developer Should Know In 2022](https://medium.com/@kylia669/net-top-nuget-packages-every-developer-should-know-in-2022-8929cbe178da)
 
-### 13 Nay 2022
+### 13 May 2022
 
 - [Microsoft .NET 6: Top 10 New Features](https://medium.com/accedia/microsoft-net-6-top-10-new-features-7464cd8c6549)
 - [Heap, Stack and Garbage Collector — A practical guide to .NET memory management system.](https://andresantarosa.medium.com/heap-stack-e-garbage-collector-a-practical-guide-to-net-memory-management-system-7e60bbadf199)
