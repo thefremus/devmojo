@@ -106,3 +106,25 @@ So to get going I am going to create a small project - with a test project, and 
 - [Experience the Adaptive UI Layout of Blazor DataGrid for All Devices](https://medium.com/syncfusion/experience-the-adaptive-ui-layout-of-blazor-datagrid-for-all-devices-7173e6c68e43)
 - [Why you shouldn’t call .Result when dealing with async code in C#](https://medium.com/@jamie-burns/why-you-shouldnt-call-result-when-dealing-with-async-code-in-c-affee2142c86)
 - [What is Method Idempotence?](https://medium.com/@yildiraygemuk/what-is-method-idempotence-cfedf2c0194d)
+
+## 18 May 2022
+
+|Article                                                                                                                         |Tags                   |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+|[ASP.NET Core Http Security Header](https://muratsuzen.medium.com/asp-net-core-http-security-header-cf4d0fb61df8)               |ASP.NET Core, Security |
+|[Best Linq Performance](https://medium.com/@hussein.nm/best-linq-performance-2dfe7fc7eff2)                                      |.NET Core, Lambda, Linq|
+|[OpenTelemetry with Jaeger in .NET Core](https://medium.com/@niteshsinghal85/opentelemetry-with-jaeger-in-net-core-9b1e009a73dc)|ASP.NET Core, Telemetry|
+|[Different Ways to Inject Dependencies in .NET Core](https://medium.com/@AzilenTech/different-ways-to-inject-dependencies-in-net-core-d147ad0279cd)                               |.NET Core, Dependency Injection, Inversion of Control|
+|[Using Multiple DbContext on .NET 6 Web API With Repository Pattern](https://muratsuzen.medium.com/using-multiple-dbcontext-on-net-6-web-api-with-repository-pattern-3d223874e625)                |ASP.NET Core, EF Core, Dependency Injection  |
+
+## Course Material
+
+### Microsoft Learn
+
+- [Build Apps With .NET MAUI](https://docs.microsoft.com/en-us/learn/paths/build-apps-with-dotnet-maui/)
+    - [Introduction](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/1-introduction)
+    - [Describe the .NET MAUI architecture](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/2-describe-maui-architecture)
+    - [Exercise: Create your first .NET MAUI app](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/4-exercise-create-your-first-maui-app)
+    - [Add visual controls to a .NET MAUI app](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/5-add-controls-to-the-ui)
+    - [Exercise: Create the phone number translator app](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/6-exercise-create-phone-number-translator-app)
+    - [Summary](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/7-summary)
