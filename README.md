@@ -145,6 +145,6 @@ So to get going I am going to create a small project - with a test project, and 
 
 ### Notes
 
-### 18 May 2022
+#### 18 May 2022
 
 - [Introducing .NET MAUI](/notes/introducing-net-maui.md)
