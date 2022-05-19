@@ -107,7 +107,7 @@ So to get going I am going to create a small project - with a test project, and 
 - [Why you shouldn’t call .Result when dealing with async code in C#](https://medium.com/@jamie-burns/why-you-shouldnt-call-result-when-dealing-with-async-code-in-c-affee2142c86)
 - [What is Method Idempotence?](https://medium.com/@yildiraygemuk/what-is-method-idempotence-cfedf2c0194d)
 
-## 18 May 2022
+### 18 May 2022
 
 |Article                                                                                                                         |Tags                   |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------|
@@ -143,4 +143,8 @@ So to get going I am going to create a small project - with a test project, and 
 
 ## Writing
 
-- [Introducing .NET MAUI](/articles/introducing-net-maui.md)
+### Notes
+
+### 18 May 2022
+
+- [Introducing .NET MAUI](/notes/introducing-net-maui.md)
