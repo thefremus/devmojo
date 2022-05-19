@@ -117,6 +117,18 @@ So to get going I am going to create a small project - with a test project, and 
 |[Different Ways to Inject Dependencies in .NET Core](https://medium.com/@AzilenTech/different-ways-to-inject-dependencies-in-net-core-d147ad0279cd)                               |.NET Core, Dependency Injection, Inversion of Control|
 |[Using Multiple DbContext on .NET 6 Web API With Repository Pattern](https://muratsuzen.medium.com/using-multiple-dbcontext-on-net-6-web-api-with-repository-pattern-3d223874e625)                |ASP.NET Core, EF Core, Dependency Injection  |
 
+### 19 May 2022
+
+|Article                                                                                                        |Source |Tags               |
+|---------------------------------------------------------------------------------------------------------------|-------|-------------------|
+|[Scoped, Transient and Singleton](https://taylancanh.medium.com/scoped-transient-and-singleton-e6c4f8811b52)   |Medium |.NET Core, Scopes  |
+|[Good API design, bad API design](https://levelup.gitconnected.com/good-api-design-bad-api-design-2405dcdde24c)|Medium |API Design         |
+|[How to use C# delegates to sanitise your codebase](https://mina-pecheux.medium.com/how-to-use-c-delegates-to-sanitise-your-codebase-424835e8ce28)              |Medium |.NET, C#, Delegates|
+|[Clean Code — A practical approach](https://medium.com/clarityai-engineering/clean-code-a-practical-approach-896546435235)|Medium|Clean Code|
+|[Why I “hate” optional parameters in C#](https://medium.com/@thecodewrapper/why-i-hate-optional-parameters-in-c-82bc0d17a2e6)|Medium|C#, .NET, Optional Parameters|
+|[Framework libraries](https://docs.microsoft.com/en-us/dotnet/standard/framework-libraries)|Microsoft Docs|.NET,Framework|
+
+
 ## Course Material
 
 ### Microsoft Learn
@@ -128,3 +140,7 @@ So to get going I am going to create a small project - with a test project, and 
     - [Add visual controls to a .NET MAUI app](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/5-add-controls-to-the-ui)
     - [Exercise: Create the phone number translator app](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/6-exercise-create-phone-number-translator-app)
     - [Summary](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/7-summary)
+
+## Writing
+
+- [Introducing .NET MAUI](/articles/introducing-net-maui.md)
