@@ -129,6 +129,16 @@ So to get going I am going to create a small project - with a test project, and 
 |[Framework libraries](https://docs.microsoft.com/en-us/dotnet/standard/framework-libraries)|Microsoft Docs|.NET,Framework|
 
 
+### 20 May 2022
+
+|Article                                                                                                                                                     |Source|Tags               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|------|-------------------|
+|[.NET API Project — Code review checklist for a PR review](https://medium.com/@mohsho10/net-api-project-code-review-checklist-for-a-pr-review-db270cb7864a) |Medium|.NET, git          |
+|[A Complete Guide to gRPC-Web with Angular and .NET](https://medium.com/@edisnezir/a-complete-guide-to-grpc-web-with-angular-and-net-c4ae2500bd24)          |Medium|.NET, gRPC, Angular|
+|[Enhance Swagger Documentation with Annotations in ASP.NET core](https://medium.com/@niteshsinghal85/enhance-swagger-documentation-with-annotations-in-asp-net-core-d2981803e299)|Medium|.NET, Swagger|
+|[Clean Architecture — Best Exception Handling with Consistent Responses in ASP.NET Core API](https://medium.com/swlh/clean-architecture-best-exception-handling-with-consistent-responses-in-asp-net-core-api-b22b07a08e38)|Medium|.NET, ASP.NET Core, Exception Handling|
+|[What is API Versioning? How to use it and integrate with Swagger](https://salihcantekin.medium.com/what-is-api-versioning-how-to-use-it-and-integrate-with-swagger-4c82e7d62b53)|Medium|.NET, Swagger, Versioning|
+
 ## Course Material
 
 ### Microsoft Learn
