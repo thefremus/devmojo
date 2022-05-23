@@ -56,31 +56,48 @@ So to get going I am going to create a small project - with a test project, and 
 
 ## Reading
 
+### 3 May 2022
+
 - [Enjoy Using Mapster in .Net 6](https://medium.com/@M-S-2/enjoy-using-mapster-in-net-6-2d3f287a0989)
 - [8 quick tips to improve your .NET API](https://medium.com/neogrid/8-quick-tips-to-improve-your-net-api-6c44faf258e0)
 - [.Net 6 vs .Net 5: How .Net 6 Has Changed the Game of Software Development?](https://blogs.ashutec.com/net-6-vs-net-5-how-net-6-has-changed-the-game-of-software-development-8b3503de7643)
 - [A common mistake almost all the developer does in the Entity Framework](https://medium.com/abhima-c-programming/a-common-mistake-almost-all-the-developer-does-in-the-entity-framework-41b52d3d3193)
 - [C# 6 Performance Tricks](https://ikbalkazanc.medium.com/c-6-performance-tricks-ae749a7a8c45)
+
+### 4 May 2022
+
 - [5 Good Practices for Error Handling in C#](https://medium.com/dotnetsafer/5-good-practices-for-error-handling-in-c-9faee15404fa)
 - [Setting up JWT Bearer authentication in ASP.NET Core](https://blog.devgenius.io/jwt-bearer-authentication-for-machine-to-machine-and-single-page-applications-1c8ba1211a90)
 - [Dependency Inversion vs. Dependency Injection](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)
 - [Real-world open-source project based on .NET 6 with DDD, ES, CQRS, Testing concepts](https://medium.com/@hamed.shirbandi/real-world-open-source-project-based-on-ddd-es-cqrs-af261cc24353)
 - [The 10 Commandments .NET Developers Must apply for Secure Applications](https://medium.com/dotnetsafer/the-10-commandments-net-developers-must-apply-for-secure-applications-a11bee856e9a)
+
+### 4 May 2022
+
 - [Generating Class Diagrams for .Net Core](https://medium.com/better-programming/generating-class-diagrams-for-net-core-c4913db9398b)
 - [C# programming — Top 10 useful features you should know](https://medium.com/whatfix-techblog/c-programming-top-10-useful-features-you-should-know-ef5ea1fb7c69)
 - [C# — Action vs Func](https://medium.com/@serhat21zor/c-action-vs-func-62fe917da43f)
 - [C# Type Converter](https://medium.com/c-sharp-progarmming/c-type-converter-2fec57bb1a13)
 - [C# 11 is Coming! 5 Features that will Blow your Mind 🤯](https://medium.com/dotnetsafer/c-11-is-coming-5-features-that-will-blow-your-mind-be8a736e8f71)
+
+### 5 May 2022
+
 - [Dependency Inversion Principle: How Google Developers write code](https://paigeshin1991.medium.com/dependency-inversion-principle-how-google-developers-write-code-f6cbd3b530a6)
 - [How to use CancellationToken in your .NET API requests](https://medium.com/geekculture/how-to-use-cancellationtoken-in-your-net-api-requests-4bdfaa9f8511)
 - [The Big Fight — Dapper vs Entity Framework 6 Detailed Benchmark](https://medium.com/@salihcantekin/the-big-fight-dapper-vs-entity-framework-detailed-benchmark-2345af933382)
 - [Different ways to implement IHttpClientFactory in .NET core apps](https://mahesh-more.medium.com/different-ways-to-implement-ihttpclientfactory-in-net-core-apps-5fd3f547a206)
 - [3 Horrible Techniques in C# You Should Avoid To Save Your Job](https://medium.com/codex/3-horrible-techniques-in-c-you-should-avoid-to-save-your-job-bc52b8ba5183)
+
+### 6 May 2022
+
 - [Using yield keyword to write better code in c#](https://medium.com/@amrelsher07/using-yield-keyword-to-write-better-code-in-c-1919267e5327)
 - [Creating a ASP.NET Core Web API in .NET 6 with NUXT 3](https://medium.com/@iliescu.dorin/creating-a-asp-net-core-web-api-in-net-6-with-nuxt-3-template-5720baad0530)
 - [How I refactored a nested if/else validation using a design pattern](https://medium.com/@arnab.sen44/how-i-refactored-a-nested-if-else-validation-using-a-design-pattern-ce287c32851d)
 - [10 Best C# NuGet Packages to Improve Your Productivity in 2022](https://medium.com/syncfusion/10-best-c-nuget-packages-to-improve-your-productivity-in-2022-593825ecd0b0)
 - [.NET MAUI Closer Than Ever (Discover +5 New Features)](https://medium.com/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-70386d83e56f)
+
+### 7 May 2022
+
 - [.NET Top NuGet Packages Every Developer Should Know In 2022](https://medium.com/@kylia669/net-top-nuget-packages-every-developer-should-know-in-2022-8929cbe178da)
 
 ### 13 May 2022
@@ -138,6 +155,16 @@ So to get going I am going to create a small project - with a test project, and 
 |[Enhance Swagger Documentation with Annotations in ASP.NET core](https://medium.com/@niteshsinghal85/enhance-swagger-documentation-with-annotations-in-asp-net-core-d2981803e299)|Medium|.NET, Swagger|
 |[Clean Architecture — Best Exception Handling with Consistent Responses in ASP.NET Core API](https://medium.com/swlh/clean-architecture-best-exception-handling-with-consistent-responses-in-asp-net-core-api-b22b07a08e38)|Medium|.NET, ASP.NET Core, Exception Handling|
 |[What is API Versioning? How to use it and integrate with Swagger](https://salihcantekin.medium.com/what-is-api-versioning-how-to-use-it-and-integrate-with-swagger-4c82e7d62b53)|Medium|.NET, Swagger, Versioning|
+
+### 23 May 2022
+
+|Article                                                                                                         |Source|Time  |Tags                         |
+|----------------------------------------------------------------------------------------------------------------|------|------|-----------------------------|
+|[ASP.NET Best Way to Store Secrets](https://medium.com/@kylia669/asp-net-best-way-to-store-secrets-8720877314c4)|Medium|4 mins|.NET Core, Secrets Management|
+|[Setting Up Minimal.Net6 Rest API with SQL Server.](https://medium.com/@eghosagabriel/setting-up-minimal-net6-rest-api-with-sql-server-78cb37839eb6)|Medium|4 mins|.NET 6, Minimal APIS|
+|[Validate your ASP .NET configuration the right way](https://medium.com/@yazan.ati.one/validate-your-asp-net-configuration-the-right-way-6675c0307b35)|Medium|3 mins|.NET Core, Validation|
+|[Using yield with async in C#](https://jamie-burns.medium.com/using-yield-with-async-in-c-385de15bb11)|Medium|3 mins|.NET, CSharp|
+|[Integration Test with Docker and .Net6](https://medium.com/geekculture/integration-test-with-docker-and-net6-564cb4922cfd)|Medium|2 mins|.NET Core, Docker, Integration Testing|
 
 ## Course Material
 
