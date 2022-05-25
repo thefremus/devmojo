@@ -166,6 +166,17 @@ So to get going I am going to create a small project - with a test project, and 
 |[Using yield with async in C#](https://jamie-burns.medium.com/using-yield-with-async-in-c-385de15bb11)|Medium|3 mins|.NET, CSharp|
 |[Integration Test with Docker and .Net6](https://medium.com/geekculture/integration-test-with-docker-and-net6-564cb4922cfd)|Medium|2 mins|.NET Core, Docker, Integration Testing|
 
+### 25 May 2022
+
+|Article                                                                                                     |Source|Time      |Tags         |
+|------------------------------------------------------------------------------------------------------------|------|----------|-------------|
+|[Applying SOLID Principles with C#](https://medium.com/neogrid/applying-solid-principle-with-c-20b00f6879f6)|Medium|10 Minutes|SOLID, CSharp|
+|[Difference Between Singleton, Scoped, Transient Lifetime In Asp.net core](https://alirezafarokhi.medium.com/difference-between-singleton-scoped-transient-lifetime-in-asp-net-core-d5773fed5fe7)|Medium|3 Minutes|Dependency Injection|
+|[Using File-Scoped Namespaces in .NET 6](https://jamie-burns.medium.com/using-file-scoped-namespaces-in-net-6-c5800b4a960b)|Medium|4 Minutes|.NET 6.0|
+|[End to End Unit Testing for .NET 6 Web API](https://medium.com/@niteshsinghal85/end-to-end-unit-testing-for-net-6-web-api-58883d1b2fe4)|Medium|5 Minutes|Testing|
+|[How not to use automapper (featuring Jimmy Bogard)](https://medium.com/@woeterman_94/how-not-to-use-automapper-featuring-jimmy-bogard-33aa0391c98e)|Medium|5 Minutes|.NET, AutoMapper|
+|[AutoMapper Usage Guidelines](https://jimmybogard.com/automapper-usage-guidelines/)|JIMMY BOGARD|4 minutes|.NET, AutoMapper|
+
 ## Course Material
 
 ### Microsoft Learn
