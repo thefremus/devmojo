@@ -56,23 +56,21 @@ So to get going I am going to create a small project - with a test project, and 
 
 ## Reading
 
-### 3 May 2022
+|Date      |Activity Type  |Resource                                                                                                             |Source|Duration |Tags              |
+|----------|---------------|---------------------------------------------------------------------------------------------------------------------|------|---------|------------------|
+|3 May 2022|Reading Article|[Enjoy Using Mapster in .Net 6](https://medium.com/@M-S-2/enjoy-using-mapster-in-net-6-2d3f287a0989)                 |Medium|4 Minutes|.NET, Mapping     |
+|3 May 2022|Reading Article|[8 quick tips to improve your .NET API](https://medium.com/neogrid/8-quick-tips-to-improve-your-net-api-6c44faf258e0)|Medium|5 Minutes|.NET, ASP.NET Core|
+|3 May 2022|Reading Article|[.Net 6 vs .Net 5: How .Net 6 Has Changed the Game of Software Development?](https://blogs.ashutec.com/net-6-vs-net-5-how-net-6-has-changed-the-game-of-software-development-8b3503de7643)|Medium|5 Minutes|.NET|
+|3 May 2022|Reading Article|[A common mistake almost all the developer does in the Entity Framework](https://medium.com/abhima-c-programming/a-common-mistake-almost-all-the-developer-does-in-the-entity-framework-41b52d3d3193)|Medium|3 Minutes|.NET, Entity Framework|
+|3 May 2022|Reading Article|[C# 6 Performance Tricks](https://ikbalkazanc.medium.com/c-6-performance-tricks-ae749a7a8c45)|Medium|4 Minutes|.NET|
+|4 May 2022|Reading Article|[5 Good Practices for Error Handling in C#](https://medium.com/dotnetsafer/5-good-practices-for-error-handling-in-c-9faee15404fa)|Medium|4 Minutes|.NET, Error Handling|
+|4 May 2022|Reading Article|[Setting up JWT Bearer authentication in ASP.NET Core](https://blog.devgenius.io/jwt-bearer-authentication-for-machine-to-machine-and-single-page-applications-1c8ba1211a90)|Medium|2 Minutes|.NET, ASP.NET Core, JWT, Authentication|
+|4 May 2022|Reading Article|[Dependency Inversion vs. Dependency Injection](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)|Medium|4 Minutes|Dependency Injection, Dependency Inversion, SOLID|
+|4 May 2022|Reading Article|[Real-world open-source project based on .NET 6 with DDD, ES, CQRS, Testing concepts](https://medium.com/@hamed.shirbandi/real-world-open-source-project-based-on-ddd-es-cqrs-af261cc24353)|Medium|4 Minutes|.NET, .NET 6, DDD, ES, CQRS|
+|4 May 2022|Reading Article|[The 10 Commandments .NET Developers Must apply for Secure Applications](https://medium.com/dotnetsafer/the-10-commandments-net-developers-must-apply-for-secure-applications-a11bee856e9a)|Medium|12 Minutes|.NET, Security|
 
-- [Enjoy Using Mapster in .Net 6](https://medium.com/@M-S-2/enjoy-using-mapster-in-net-6-2d3f287a0989)
-- [8 quick tips to improve your .NET API](https://medium.com/neogrid/8-quick-tips-to-improve-your-net-api-6c44faf258e0)
-- [.Net 6 vs .Net 5: How .Net 6 Has Changed the Game of Software Development?](https://blogs.ashutec.com/net-6-vs-net-5-how-net-6-has-changed-the-game-of-software-development-8b3503de7643)
-- [A common mistake almost all the developer does in the Entity Framework](https://medium.com/abhima-c-programming/a-common-mistake-almost-all-the-developer-does-in-the-entity-framework-41b52d3d3193)
-- [C# 6 Performance Tricks](https://ikbalkazanc.medium.com/c-6-performance-tricks-ae749a7a8c45)
 
-### 4 May 2022
-
-- [5 Good Practices for Error Handling in C#](https://medium.com/dotnetsafer/5-good-practices-for-error-handling-in-c-9faee15404fa)
-- [Setting up JWT Bearer authentication in ASP.NET Core](https://blog.devgenius.io/jwt-bearer-authentication-for-machine-to-machine-and-single-page-applications-1c8ba1211a90)
-- [Dependency Inversion vs. Dependency Injection](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)
-- [Real-world open-source project based on .NET 6 with DDD, ES, CQRS, Testing concepts](https://medium.com/@hamed.shirbandi/real-world-open-source-project-based-on-ddd-es-cqrs-af261cc24353)
-- [The 10 Commandments .NET Developers Must apply for Secure Applications](https://medium.com/dotnetsafer/the-10-commandments-net-developers-must-apply-for-secure-applications-a11bee856e9a)
-
-### 4 May 2022
+### 5 May 2022
 
 - [Generating Class Diagrams for .Net Core](https://medium.com/better-programming/generating-class-diagrams-for-net-core-c4913db9398b)
 - [C# programming — Top 10 useful features you should know](https://medium.com/whatfix-techblog/c-programming-top-10-useful-features-you-should-know-ef5ea1fb7c69)
@@ -80,7 +78,7 @@ So to get going I am going to create a small project - with a test project, and 
 - [C# Type Converter](https://medium.com/c-sharp-progarmming/c-type-converter-2fec57bb1a13)
 - [C# 11 is Coming! 5 Features that will Blow your Mind 🤯](https://medium.com/dotnetsafer/c-11-is-coming-5-features-that-will-blow-your-mind-be8a736e8f71)
 
-### 5 May 2022
+### 6 May 2022
 
 - [Dependency Inversion Principle: How Google Developers write code](https://paigeshin1991.medium.com/dependency-inversion-principle-how-google-developers-write-code-f6cbd3b530a6)
 - [How to use CancellationToken in your .NET API requests](https://medium.com/geekculture/how-to-use-cancellationtoken-in-your-net-api-requests-4bdfaa9f8511)
@@ -88,7 +86,7 @@ So to get going I am going to create a small project - with a test project, and 
 - [Different ways to implement IHttpClientFactory in .NET core apps](https://mahesh-more.medium.com/different-ways-to-implement-ihttpclientfactory-in-net-core-apps-5fd3f547a206)
 - [3 Horrible Techniques in C# You Should Avoid To Save Your Job](https://medium.com/codex/3-horrible-techniques-in-c-you-should-avoid-to-save-your-job-bc52b8ba5183)
 
-### 6 May 2022
+### 7 May 2022
 
 - [Using yield keyword to write better code in c#](https://medium.com/@amrelsher07/using-yield-keyword-to-write-better-code-in-c-1919267e5327)
 - [Creating a ASP.NET Core Web API in .NET 6 with NUXT 3](https://medium.com/@iliescu.dorin/creating-a-asp-net-core-web-api-in-net-6-with-nuxt-3-template-5720baad0530)
@@ -96,7 +94,7 @@ So to get going I am going to create a small project - with a test project, and 
 - [10 Best C# NuGet Packages to Improve Your Productivity in 2022](https://medium.com/syncfusion/10-best-c-nuget-packages-to-improve-your-productivity-in-2022-593825ecd0b0)
 - [.NET MAUI Closer Than Ever (Discover +5 New Features)](https://medium.com/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-70386d83e56f)
 
-### 7 May 2022
+### 8 May 2022
 
 - [.NET Top NuGet Packages Every Developer Should Know In 2022](https://medium.com/@kylia669/net-top-nuget-packages-every-developer-should-know-in-2022-8929cbe178da)
 
