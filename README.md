@@ -41,20 +41,7 @@ After watching [Mapster, the best .NET mapper that you are (probably) not using]
 
 So to get going I am going to create a small project - with a test project, and a class library. The goal is to get to the heart of the functionality - but to understand what is happening as well.
 
-## Video Learning
-
-- [What is Span in C# and why you should be using it](https://www.youtube.com/watch?v=FM5dpxJMULY)
-- [How Controller behaviour changed in .NET 7](https://www.youtube.com/watch?v=r5VJIz25PPY)
-- [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
-- [4 C# features that you (probably) shouldn't be using](https://www.youtube.com/watch?v=yzg5-T67FCc)
-- [8 await async mistakes that you SHOULD avoid in .NET](https://www.youtube.com/watch?v=lQu-eBIIh-w)
-- [C# 11's NEW elegant string conversion](https://www.youtube.com/watch?v=uoIbKO-zKeQ)
-
-### 16 May 2022
-
-- [What is .NET MAUI? - .NET Maui Crash Course #0](https://www.youtube.com/watch?v=mgW6xviirQk)
-
-## Reading
+## Resources
 
 |Date      |Activity Type  |Resource                                                                                                             |Source|Duration |Tags              |
 |----------|---------------|---------------------------------------------------------------------------------------------------------------------|------|---------|------------------|
@@ -73,120 +60,58 @@ So to get going I am going to create a small project - with a test project, and 
 |5 May 2022|Reading Article|[C# — Action vs Func](https://medium.com/@serhat21zor/c-action-vs-func-62fe917da43f)|Medium|3 Minutes|.NET, Delegates|
 |5 May 2022|Reading Article|[C# Type Converter](https://medium.com/c-sharp-progarmming/c-type-converter-2fec57bb1a13)|Medium|2 Minutes|.NET|
 |5 May 2022|Reading Article|[C# 11 is Coming! 5 Features that will Blow your Mind 🤯](https://medium.com/dotnetsafer/c-11-is-coming-5-features-that-will-blow-your-mind-be8a736e8f71)|Medium|4 Minutes|.NET|
-
-### 6 May 2022
-
-- [Dependency Inversion Principle: How Google Developers write code](https://paigeshin1991.medium.com/dependency-inversion-principle-how-google-developers-write-code-f6cbd3b530a6)
-- [How to use CancellationToken in your .NET API requests](https://medium.com/geekculture/how-to-use-cancellationtoken-in-your-net-api-requests-4bdfaa9f8511)
-- [The Big Fight — Dapper vs Entity Framework 6 Detailed Benchmark](https://medium.com/@salihcantekin/the-big-fight-dapper-vs-entity-framework-detailed-benchmark-2345af933382)
-- [Different ways to implement IHttpClientFactory in .NET core apps](https://mahesh-more.medium.com/different-ways-to-implement-ihttpclientfactory-in-net-core-apps-5fd3f547a206)
-- [3 Horrible Techniques in C# You Should Avoid To Save Your Job](https://medium.com/codex/3-horrible-techniques-in-c-you-should-avoid-to-save-your-job-bc52b8ba5183)
-
-### 7 May 2022
-
-- [Using yield keyword to write better code in c#](https://medium.com/@amrelsher07/using-yield-keyword-to-write-better-code-in-c-1919267e5327)
-- [Creating a ASP.NET Core Web API in .NET 6 with NUXT 3](https://medium.com/@iliescu.dorin/creating-a-asp-net-core-web-api-in-net-6-with-nuxt-3-template-5720baad0530)
-- [How I refactored a nested if/else validation using a design pattern](https://medium.com/@arnab.sen44/how-i-refactored-a-nested-if-else-validation-using-a-design-pattern-ce287c32851d)
-- [10 Best C# NuGet Packages to Improve Your Productivity in 2022](https://medium.com/syncfusion/10-best-c-nuget-packages-to-improve-your-productivity-in-2022-593825ecd0b0)
-- [.NET MAUI Closer Than Ever (Discover +5 New Features)](https://medium.com/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-70386d83e56f)
-
-### 8 May 2022
-
-- [.NET Top NuGet Packages Every Developer Should Know In 2022](https://medium.com/@kylia669/net-top-nuget-packages-every-developer-should-know-in-2022-8929cbe178da)
-
-### 13 May 2022
-
-- [Microsoft .NET 6: Top 10 New Features](https://medium.com/accedia/microsoft-net-6-top-10-new-features-7464cd8c6549)
-- [Heap, Stack and Garbage Collector — A practical guide to .NET memory management system.](https://andresantarosa.medium.com/heap-stack-e-garbage-collector-a-practical-guide-to-net-memory-management-system-7e60bbadf199)
-- [.NET Core Best Practices](https://medium.com/@nilebits/net-core-best-practices-6a2a4f25de8e)
-- [A simple way to validate the data in C#](https://medium.com/abhima-c-programming/a-simple-way-to-validate-the-data-in-c-2fafb797b956)
-- [Essential 10 .NET Libraries every developer must know!](https://medium.com/dev-genius/essential-10-net-libraries-every-developer-must-know-fc413cbfab05)
-
-### 16 May 2022
-
-- [CSharpCodingStandard](https://github.com/hassanhabib/CSharpCodingStandard/blob/master/Methods.md#115-chaining-uglificationbeautification)
-- [An Elegant Way to Mock DateTime.Now in Your C# Application](https://levelup.gitconnected.com/an-elegant-way-to-mock-datetime-now-in-your-c-application-a81e59e62836)
-- [Method Code Smells and Refactorings](https://amrelsher07.medium.com/method-code-smells-and-refactorings-bd9383ee6432)
-- [Difference between IOptions, IOptionsSnapshot and IOptionsMonitor In Asp.netCore](https://alirezafarokhi.medium.com/difference-between-ioptions-ioptionssnapshot-and-ioptionsmonitor-in-asp-netcore-587954bbcea)
-- [An Introduction to Writing High-Performance C# Using Span<T> Struct](https://medium.com/@nishanc/an-introduction-to-writing-high-performance-c-using-span-t-struct-b859862a84e4)
-
-### 17 May 2022
-
-- [7 Features of Blazor That Make It an Outstanding Framework for Web Development](https://medium.com/syncfusion/7-features-of-blazor-that-make-it-an-outstanding-framework-for-web-development-205352330b8f)
-- [Using MassTransit to manage message queues](https://medium.com/geekculture/using-masstransit-to-manage-message-queues-4a4bf4103466)
-- [Experience the Adaptive UI Layout of Blazor DataGrid for All Devices](https://medium.com/syncfusion/experience-the-adaptive-ui-layout-of-blazor-datagrid-for-all-devices-7173e6c68e43)
-- [Why you shouldn’t call .Result when dealing with async code in C#](https://medium.com/@jamie-burns/why-you-shouldnt-call-result-when-dealing-with-async-code-in-c-affee2142c86)
-- [What is Method Idempotence?](https://medium.com/@yildiraygemuk/what-is-method-idempotence-cfedf2c0194d)
-
-### 18 May 2022
-
-|Article                                                                                                                         |Tags                   |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-|[ASP.NET Core Http Security Header](https://muratsuzen.medium.com/asp-net-core-http-security-header-cf4d0fb61df8)               |ASP.NET Core, Security |
-|[Best Linq Performance](https://medium.com/@hussein.nm/best-linq-performance-2dfe7fc7eff2)                                      |.NET Core, Lambda, Linq|
-|[OpenTelemetry with Jaeger in .NET Core](https://medium.com/@niteshsinghal85/opentelemetry-with-jaeger-in-net-core-9b1e009a73dc)|ASP.NET Core, Telemetry|
-|[Different Ways to Inject Dependencies in .NET Core](https://medium.com/@AzilenTech/different-ways-to-inject-dependencies-in-net-core-d147ad0279cd)                               |.NET Core, Dependency Injection, Inversion of Control|
-|[Using Multiple DbContext on .NET 6 Web API With Repository Pattern](https://muratsuzen.medium.com/using-multiple-dbcontext-on-net-6-web-api-with-repository-pattern-3d223874e625)                |ASP.NET Core, EF Core, Dependency Injection  |
-
-### 19 May 2022
-
-|Article                                                                                                        |Source |Tags               |
-|---------------------------------------------------------------------------------------------------------------|-------|-------------------|
-|[Scoped, Transient and Singleton](https://taylancanh.medium.com/scoped-transient-and-singleton-e6c4f8811b52)   |Medium |.NET Core, Scopes  |
-|[Good API design, bad API design](https://levelup.gitconnected.com/good-api-design-bad-api-design-2405dcdde24c)|Medium |API Design         |
-|[How to use C# delegates to sanitise your codebase](https://mina-pecheux.medium.com/how-to-use-c-delegates-to-sanitise-your-codebase-424835e8ce28)              |Medium |.NET, C#, Delegates|
-|[Clean Code — A practical approach](https://medium.com/clarityai-engineering/clean-code-a-practical-approach-896546435235)|Medium|Clean Code|
-|[Why I “hate” optional parameters in C#](https://medium.com/@thecodewrapper/why-i-hate-optional-parameters-in-c-82bc0d17a2e6)|Medium|C#, .NET, Optional Parameters|
-|[Framework libraries](https://docs.microsoft.com/en-us/dotnet/standard/framework-libraries)|Microsoft Docs|.NET,Framework|
-
-
-### 20 May 2022
-
-|Article                                                                                                                                                     |Source|Tags               |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|------|-------------------|
-|[.NET API Project — Code review checklist for a PR review](https://medium.com/@mohsho10/net-api-project-code-review-checklist-for-a-pr-review-db270cb7864a) |Medium|.NET, git          |
-|[A Complete Guide to gRPC-Web with Angular and .NET](https://medium.com/@edisnezir/a-complete-guide-to-grpc-web-with-angular-and-net-c4ae2500bd24)          |Medium|.NET, gRPC, Angular|
-|[Enhance Swagger Documentation with Annotations in ASP.NET core](https://medium.com/@niteshsinghal85/enhance-swagger-documentation-with-annotations-in-asp-net-core-d2981803e299)|Medium|.NET, Swagger|
-|[Clean Architecture — Best Exception Handling with Consistent Responses in ASP.NET Core API](https://medium.com/swlh/clean-architecture-best-exception-handling-with-consistent-responses-in-asp-net-core-api-b22b07a08e38)|Medium|.NET, ASP.NET Core, Exception Handling|
-|[What is API Versioning? How to use it and integrate with Swagger](https://salihcantekin.medium.com/what-is-api-versioning-how-to-use-it-and-integrate-with-swagger-4c82e7d62b53)|Medium|.NET, Swagger, Versioning|
-
-### 23 May 2022
-
-|Article                                                                                                         |Source|Time  |Tags                         |
-|----------------------------------------------------------------------------------------------------------------|------|------|-----------------------------|
-|[ASP.NET Best Way to Store Secrets](https://medium.com/@kylia669/asp-net-best-way-to-store-secrets-8720877314c4)|Medium|4 mins|.NET Core, Secrets Management|
-|[Setting Up Minimal.Net6 Rest API with SQL Server.](https://medium.com/@eghosagabriel/setting-up-minimal-net6-rest-api-with-sql-server-78cb37839eb6)|Medium|4 mins|.NET 6, Minimal APIS|
-|[Validate your ASP .NET configuration the right way](https://medium.com/@yazan.ati.one/validate-your-asp-net-configuration-the-right-way-6675c0307b35)|Medium|3 mins|.NET Core, Validation|
-|[Using yield with async in C#](https://jamie-burns.medium.com/using-yield-with-async-in-c-385de15bb11)|Medium|3 mins|.NET, CSharp|
-|[Integration Test with Docker and .Net6](https://medium.com/geekculture/integration-test-with-docker-and-net6-564cb4922cfd)|Medium|2 mins|.NET Core, Docker, Integration Testing|
-
-### 25 May 2022
-
-|Article                                                                                                     |Source|Time      |Tags         |
-|------------------------------------------------------------------------------------------------------------|------|----------|-------------|
-|[Applying SOLID Principles with C#](https://medium.com/neogrid/applying-solid-principle-with-c-20b00f6879f6)|Medium|10 Minutes|SOLID, CSharp|
-|[Difference Between Singleton, Scoped, Transient Lifetime In Asp.net core](https://alirezafarokhi.medium.com/difference-between-singleton-scoped-transient-lifetime-in-asp-net-core-d5773fed5fe7)|Medium|3 Minutes|Dependency Injection|
-|[Using File-Scoped Namespaces in .NET 6](https://jamie-burns.medium.com/using-file-scoped-namespaces-in-net-6-c5800b4a960b)|Medium|4 Minutes|.NET 6.0|
-|[End to End Unit Testing for .NET 6 Web API](https://medium.com/@niteshsinghal85/end-to-end-unit-testing-for-net-6-web-api-58883d1b2fe4)|Medium|5 Minutes|Testing|
-|[How not to use automapper (featuring Jimmy Bogard)](https://medium.com/@woeterman_94/how-not-to-use-automapper-featuring-jimmy-bogard-33aa0391c98e)|Medium|5 Minutes|.NET, AutoMapper|
-|[AutoMapper Usage Guidelines](https://jimmybogard.com/automapper-usage-guidelines/)|JIMMY BOGARD|4 minutes|.NET, AutoMapper|
-
-## Course Material
-
-### Microsoft Learn
-
-- [Build Apps With .NET MAUI](https://docs.microsoft.com/en-us/learn/paths/build-apps-with-dotnet-maui/)
-    - [Introduction](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/1-introduction)
-    - [Describe the .NET MAUI architecture](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/2-describe-maui-architecture)
-    - [Exercise: Create your first .NET MAUI app](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/4-exercise-create-your-first-maui-app)
-    - [Add visual controls to a .NET MAUI app](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/5-add-controls-to-the-ui)
-    - [Exercise: Create the phone number translator app](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/6-exercise-create-phone-number-translator-app)
-    - [Summary](https://docs.microsoft.com/en-us/learn/dotnet-maui/build-mobile-and-desktop-apps/7-summary)
-
-## Writing
-
-### Notes
-
-#### 18 May 2022
-
-- [Introducing .NET MAUI](/notes/introducing-net-maui.md)
+|6 May 2022|Reading Article|[Dependency Inversion Principle: How Google Developers write code](https://paigeshin1991.medium.com/dependency-inversion-principle-how-google-developers-write-code-f6cbd3b530a6)|Medium|5 Minutes|Dependency Inversion|
+|6 May 2022|Reading Article|[How to use CancellationToken in your .NET API requests](https://medium.com/geekculture/how-to-use-cancellationtoken-in-your-net-api-requests-4bdfaa9f8511)|Medium|4 Minutes|.NET Core, async|
+|6 May 2022|Reading Article|[The Big Fight — Dapper vs Entity Framework 6 Detailed Benchmark](https://medium.com/@salihcantekin/the-big-fight-dapper-vs-entity-framework-detailed-benchmark-2345af933382)|Medium|8 Minutes|.NET, EF Core, Dapper|
+|6 May 2022|Reading Article|[Different ways to implement IHttpClientFactory in .NET core apps](https://mahesh-more.medium.com/different-ways-to-implement-ihttpclientfactory-in-net-core-apps-5fd3f547a206)|Medium|3 Minutes|.NET, HttpClientFactory|
+|6 May 2022|Reading Article|[3 Horrible Techniques in C# You Should Avoid To Save Your Job](https://medium.com/codex/3-horrible-techniques-in-c-you-should-avoid-to-save-your-job-bc52b8ba5183)|Medium|4 Minutes|.NET, CSharp|
+|7 May 2022|Reading Article|[Using yield keyword to write better code in c#](https://medium.com/@amrelsher07/using-yield-keyword-to-write-better-code-in-c-1919267e5327)|Medium|3 Minutes|.NET, CSharp|
+|7 May 2022|Reading Article|[Creating a ASP.NET Core Web API in .NET 6 with NUXT 3](https://medium.com/@iliescu.dorin/creating-a-asp-net-core-web-api-in-net-6-with-nuxt-3-template-5720baad0530)|Medium|5 Minutes|.NET, ASP.NET Core, NUXT|
+|7 May 2022|Reading Article|[How I refactored a nested if/else validation using a design pattern](https://medium.com/@arnab.sen44/how-i-refactored-a-nested-if-else-validation-using-a-design-pattern-ce287c32851d)|Medium|5 Minutes|.NET, Design Patterns|
+|7 May 2022|Reading Article|[10 Best C# NuGet Packages to Improve Your Productivity in 2022](https://medium.com/syncfusion/10-best-c-nuget-packages-to-improve-your-productivity-in-2022-593825ecd0b0)|Medium|4 Minutes|.NET, CSharp|
+|7 May 2022|Reading Article|[.NET MAUI Closer Than Ever (Discover +5 New Features)](https://medium.com/dotnetsafer/net-maui-closer-than-ever-discover-5-new-features-70386d83e56f)|Medium|5 Minutes|.NET, .NET MAUI|
+|8 May 2022|Reading Article|[.NET Top NuGet Packages Every Developer Should Know In 2022](https://medium.com/@kylia669/net-top-nuget-packages-every-developer-should-know-in-2022-8929cbe178da)|Medium|4 Minutes|.NET, Nuget|
+|13 May 2022|Reading Article|[Microsoft .NET 6: Top 10 New Features](https://medium.com/accedia/microsoft-net-6-top-10-new-features-7464cd8c6549)|Medium|6 Minutes|.NET, .NET 6.0|
+|13 May 2022|Reading Article|[Heap, Stack and Garbage Collector — A practical guide to .NET memory management system.](https://andresantarosa.medium.com/heap-stack-e-garbage-collector-a-practical-guide-to-net-memory-management-system-7e60bbadf199)|Medium|15 Minutes|.NET, Memory Management|
+|13 May 2022|Reading Article|[.NET Core Best Practices](https://medium.com/@nilebits/net-core-best-practices-6a2a4f25de8e)|Medium|5 Minutes|.NET, .NET Core|
+|13 May 2022|Reading Article|[A simple way to validate the data in C#](https://medium.com/abhima-c-programming/a-simple-way-to-validate-the-data-in-c-2fafb797b956)|Medium|2 Minutes|.NET, CSharp|
+|13 May 2022|Reading Article|[Essential 10 .NET Libraries every developer must know!](https://medium.com/dev-genius/essential-10-net-libraries-every-developer-must-know-fc413cbfab05)|Medium|4 Minutes|.NET|
+|16 May 2022|Reading Article|[CSharpCodingStandard](https://github.com/hassanhabib/CSharpCodingStandard/blob/master/Methods.md#115-chaining-uglificationbeautification)|GitHub|4 Minutes|.NET, CSharp|
+|16 May 2022|Reading Article|[An Elegant Way to Mock DateTime.Now in Your C# Application](https://levelup.gitconnected.com/an-elegant-way-to-mock-datetime-now-in-your-c-application-a81e59e62836)|Medium|3 Minutes|.NET|
+|16 May 2022|Reading Article|[Method Code Smells and Refactorings](https://amrelsher07.medium.com/method-code-smells-and-refactorings-bd9383ee6432)|Medium|3 Minutes|.NET, Refactoring|
+|16 May 2022|Reading Article|[Difference between IOptions, IOptionsSnapshot and IOptionsMonitor In Asp.netCore](https://alirezafarokhi.medium.com/difference-between-ioptions-ioptionssnapshot-and-ioptionsmonitor-in-asp-netcore-587954bbcea)|Medium|2 Minutes|.NET, ASP.NET Core|
+|16 May 2022|Reading Article|[An Introduction to Writing High-Performance C# Using Span<T> Struct](https://medium.com/@nishanc/an-introduction-to-writing-high-performance-c-using-span-t-struct-b859862a84e4)|Medium|7 Minutes|
+|16 May 2022|Video          |[What is .NET MAUI? - .NET Maui Crash Course #0](https://www.youtube.com/watch?v=mgW6xviirQk)|YouTube|10 Minutes|.NET MAUI|
+|17 May 2022|Reading Article|[7 Features of Blazor That Make It an Outstanding Framework for Web Development](https://medium.com/syncfusion/7-features-of-blazor-that-make-it-an-outstanding-framework-for-web-development-205352330b8f)|Medium|6 Minutes|.NET, Blazor|
+|17 May 2022|Reading Article|[Using MassTransit to manage message queues](https://medium.com/geekculture/using-masstransit-to-manage-message-queues-4a4bf4103466)|Medium|12 Minutes|.NET, Message Brokers|
+|17 May 2022|Reading Article|[Experience the Adaptive UI Layout of Blazor DataGrid for All Devices](https://medium.com/syncfusion/experience-the-adaptive-ui-layout-of-blazor-datagrid-for-all-devices-7173e6c68e43)|Medium|6 Minutes|.NET, Blazor|
+|17 May 2022|Reading Article|[Why you shouldn’t call .Result when dealing with async code in C#](https://medium.com/@jamie-burns/why-you-shouldnt-call-result-when-dealing-with-async-code-in-c-affee2142c86)|Medium|4 Minutes|.NET|
+|17 May 2022|Reading Article|[What is Method Idempotence?](https://medium.com/@yildiraygemuk/what-is-method-idempotence-cfedf2c0194d)|Medium|3 Minutes|.NET|
+|18 May 2022|Reading Article|[ASP.NET Core Http Security Header](https://muratsuzen.medium.com/asp-net-core-http-security-header-cf4d0fb61df8)               |Medium|3 Minutes|ASP.NET Core, Security |
+|18 May 2022|Reading Article|[Best Linq Performance](https://medium.com/@hussein.nm/best-linq-performance-2dfe7fc7eff2)                                      |Medium|3 Minutes|.NET Core, Lambda, Linq|
+|18 May 2022|Reading Article|[OpenTelemetry with Jaeger in .NET Core](https://medium.com/@niteshsinghal85/opentelemetry-with-jaeger-in-net-core-9b1e009a73dc)|Medium|4 Minutes|ASP.NET Core, Telemetry|
+|18 May 2022|Reading Article|[Different Ways to Inject Dependencies in .NET Core](https://medium.com/@AzilenTech/different-ways-to-inject-dependencies-in-net-core-d147ad0279cd)|Medium|5 Minutes|.NET Core, Dependency Injection, Inversion of Control|
+|18 May 2022|Reading Article|[Using Multiple DbContext on .NET 6 Web API With Repository Pattern](https://muratsuzen.medium.com/using-multiple-dbcontext-on-net-6-web-api-with-repository-pattern-3d223874e625)|Medium|3 Minutes|ASP.NET Core, EF Core, Dependency Injection  |
+|18 May 2022|Writing Notes|[Introducing .NET MAUI](/notes/introducing-net-maui.md)|GitHub|30 Minutes|.NET MAUI|
+|19 May 2022|Reading Article|[Scoped, Transient and Singleton](https://taylancanh.medium.com/scoped-transient-and-singleton-e6c4f8811b52)   |Medium |3 Minutes|.NET Core, Scopes  |
+|19 May 2022|Reading Article|[Good API design, bad API design](https://levelup.gitconnected.com/good-api-design-bad-api-design-2405dcdde24c)|Medium |4 Minutes|API Design         |
+|19 May 2022|Reading Article|[How to use C# delegates to sanitise your codebase](https://mina-pecheux.medium.com/how-to-use-c-delegates-to-sanitise-your-codebase-424835e8ce28)|Medium|7 Minutes|.NET, C#, Delegates|
+|19 May 2022|Reading Article|[Clean Code — A practical approach](https://medium.com/clarityai-engineering/clean-code-a-practical-approach-896546435235)|Medium|11 Minutes|Clean Code|
+|19 May 2022|Reading Article|[Why I “hate” optional parameters in C#](https://medium.com/@thecodewrapper/why-i-hate-optional-parameters-in-c-82bc0d17a2e6)|Medium|5 Minutes|C#, .NET, Optional Parameters|
+|19 May 2022|Reading Article|[Framework libraries](https://docs.microsoft.com/en-us/dotnet/standard/framework-libraries)|Microsoft Docs|3 Minutes|.NET,Framework|
+|20 May 2022|Reading Article|[.NET API Project — Code review checklist for a PR review](https://medium.com/@mohsho10/net-api-project-code-review-checklist-for-a-pr-review-db270cb7864a) |Medium|2 Minutes|.NET, git          |
+|20 May 2022|Reading Article|[A Complete Guide to gRPC-Web with Angular and .NET](https://medium.com/@edisnezir/a-complete-guide-to-grpc-web-with-angular-and-net-c4ae2500bd24)          |Medium|10 Minutes|.NET, gRPC, Angular|
+|20 May 2022|Reading Article|[Enhance Swagger Documentation with Annotations in ASP.NET core](https://medium.com/@niteshsinghal85/enhance-swagger-documentation-with-annotations-in-asp-net-core-d2981803e299)|Medium|4 Minutes|.NET, Swagger|
+|20 May 2022|Reading Article|[Clean Architecture — Best Exception Handling with Consistent Responses in ASP.NET Core API](https://medium.com/swlh/clean-architecture-best-exception-handling-with-consistent-responses-in-asp-net-core-api-b22b07a08e38)|Medium|5 Minutes|.NET, ASP.NET Core, Exception Handling|
+|20 May 2022|Reading Article|[What is API Versioning? How to use it and integrate with Swagger](https://salihcantekin.medium.com/what-is-api-versioning-how-to-use-it-and-integrate-with-swagger-4c82e7d62b53)|Medium|5 Minutes|.NET, Swagger, Versioning|
+|23 May 2022|Reading Article|[ASP.NET Best Way to Store Secrets](https://medium.com/@kylia669/asp-net-best-way-to-store-secrets-8720877314c4)|Medium|4 mins|.NET Core, Secrets Management|
+|23 May 2022|Reading Article|[Setting Up Minimal.Net6 Rest API with SQL Server.](https://medium.com/@eghosagabriel/setting-up-minimal-net6-rest-api-with-sql-server-78cb37839eb6)|Medium|4 mins|.NET 6, Minimal APIS|
+|23 May 2022|Reading Article|[Validate your ASP .NET configuration the right way](https://medium.com/@yazan.ati.one/validate-your-asp-net-configuration-the-right-way-6675c0307b35)|Medium|3 mins|.NET Core, Validation|
+|23 May 2022|Reading Article|[Using yield with async in C#](https://jamie-burns.medium.com/using-yield-with-async-in-c-385de15bb11)|Medium|3 mins|.NET, CSharp|
+|23 May 2022|Reading Article|[Integration Test with Docker and .Net6](https://medium.com/geekculture/integration-test-with-docker-and-net6-564cb4922cfd)|Medium|2 mins|.NET Core, Docker, Integration Testing|
+|25 May 2022|Reading Article|[Applying SOLID Principles with C#](https://medium.com/neogrid/applying-solid-principle-with-c-20b00f6879f6)|Medium|10 Minutes|SOLID, CSharp|
+|25 May 2022|Reading Article|[Difference Between Singleton, Scoped, Transient Lifetime In Asp.net core](https://alirezafarokhi.medium.com/difference-between-singleton-scoped-transient-lifetime-in-asp-net-core-d5773fed5fe7)|Medium|3 Minutes|Dependency Injection|
+|25 May 2022|Reading Article|[Using File-Scoped Namespaces in .NET 6](https://jamie-burns.medium.com/using-file-scoped-namespaces-in-net-6-c5800b4a960b)|Medium|4 Minutes|.NET 6.0|
+|25 May 2022|Reading Article|[End to End Unit Testing for .NET 6 Web API](https://medium.com/@niteshsinghal85/end-to-end-unit-testing-for-net-6-web-api-58883d1b2fe4)|Medium|5 Minutes|Testing|
+|25 May 2022|Reading Article|[How not to use automapper (featuring Jimmy Bogard)](https://medium.com/@woeterman_94/how-not-to-use-automapper-featuring-jimmy-bogard-33aa0391c98e)|Medium|5 Minutes|.NET, AutoMapper|
+|25 May 2022|Reading Article|[AutoMapper Usage Guidelines](https://jimmybogard.com/automapper-usage-guidelines/)|JIMMY BOGARD|4 minutes|.NET, AutoMapper|
