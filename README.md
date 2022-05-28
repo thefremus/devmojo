@@ -68,15 +68,11 @@ So to get going I am going to create a small project - with a test project, and 
 |4 May 2022|Reading Article|[Dependency Inversion vs. Dependency Injection](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)|Medium|4 Minutes|Dependency Injection, Dependency Inversion, SOLID|
 |4 May 2022|Reading Article|[Real-world open-source project based on .NET 6 with DDD, ES, CQRS, Testing concepts](https://medium.com/@hamed.shirbandi/real-world-open-source-project-based-on-ddd-es-cqrs-af261cc24353)|Medium|4 Minutes|.NET, .NET 6, DDD, ES, CQRS|
 |4 May 2022|Reading Article|[The 10 Commandments .NET Developers Must apply for Secure Applications](https://medium.com/dotnetsafer/the-10-commandments-net-developers-must-apply-for-secure-applications-a11bee856e9a)|Medium|12 Minutes|.NET, Security|
-
-
-### 5 May 2022
-
-- [Generating Class Diagrams for .Net Core](https://medium.com/better-programming/generating-class-diagrams-for-net-core-c4913db9398b)
-- [C# programming — Top 10 useful features you should know](https://medium.com/whatfix-techblog/c-programming-top-10-useful-features-you-should-know-ef5ea1fb7c69)
-- [C# — Action vs Func](https://medium.com/@serhat21zor/c-action-vs-func-62fe917da43f)
-- [C# Type Converter](https://medium.com/c-sharp-progarmming/c-type-converter-2fec57bb1a13)
-- [C# 11 is Coming! 5 Features that will Blow your Mind 🤯](https://medium.com/dotnetsafer/c-11-is-coming-5-features-that-will-blow-your-mind-be8a736e8f71)
+|5 May 2022|Reading Article|[Generating Class Diagrams for .Net Core](https://medium.com/better-programming/generating-class-diagrams-for-net-core-c4913db9398b)|Medium|4 Minutes|.NET, Design|
+|5 May 2022|Reading Article|[C# programming — Top 10 useful features you should know](https://medium.com/whatfix-techblog/c-programming-top-10-useful-features-you-should-know-ef5ea1fb7c69)|Medium|6 Minutes|.NET|
+|5 May 2022|Reading Article|[C# — Action vs Func](https://medium.com/@serhat21zor/c-action-vs-func-62fe917da43f)|Medium|3 Minutes|.NET, Delegates|
+|5 May 2022|Reading Article|[C# Type Converter](https://medium.com/c-sharp-progarmming/c-type-converter-2fec57bb1a13)|Medium|2 Minutes|.NET|
+|5 May 2022|Reading Article|[C# 11 is Coming! 5 Features that will Blow your Mind 🤯](https://medium.com/dotnetsafer/c-11-is-coming-5-features-that-will-blow-your-mind-be8a736e8f71)|Medium|4 Minutes|.NET|
 
 ### 6 May 2022
 
