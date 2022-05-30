@@ -23,26 +23,6 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 3. Reading books/articles
 4. Writing your own code
 
-## .NET
-
-### ASP.NET Core
-
-An interesting way to do [API Versioning](https://github.com/dotnet/aspnet-api-versioning/wiki/API-Documentation). 
-
-### SpecFlow
-
-[SpecFlow](https://specflow.org/)
-
-### Mapster
-
-Most or many of the projects I have been working on use AutoMapper - a popular library used to map object properties. What is the basic idea? Well in most .NET projects you usually have entities mapping to a database. You also have classes with very similar properties to the entity classes. You might not always want to expose all the properties of your entity class to a front-end application - so you use a transformation class (DTO). A DTO (Data Transformation Object) is a lightweight object used typically in API endpoints. The endpoints produce JSON in many cases. While you theoretically can expose an entity to an endpoint it does mean you are potentially rendering irrelevant information to an endpoint. You might also want to apply some logic somewhere in your layered application to return specific pieces of information. The entity class can in some cases act as a conditional variable. You can then use the entity to return a DTO based the state of an entity class. 
-
-Typically then a mapper library is used to take an entity class as an source and a DTO as a target. Most mappers also perform reverse mapping - from the DTO to the entity. Question is why would you want to do this? Well two schools of thought around mapping exist - manual mapping or auto mapping. Manual mapping is the process of generating a DTO from an entity class by using your own transformation methods. 
-
-After watching [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA) and reading [Enjoy Using Mapster in .Net 6](https://medium.com/@M-S-2/enjoy-using-mapster-in-net-6-2d3f287a0989) I felt the need to explore the word of mapping for myself. To be honest up to this point I have only seen mapping as a necessary evil - in the projects I worked on I keep using them where they are used. In some cases though I use manual mapping, especially when writing projections from an EF Core DbContext. The thing that struck me most in the video is the performance gains - the difference performance difference between manual mapping seems very little.
-
-So to get going I am going to create a small project - with a test project, and a class library. The goal is to get to the heart of the functionality - but to understand what is happening as well.
-
 ## Resources
 
 |Date      |Activity Type  |Resource                                                                                                             |Source|Duration |Tags              |
@@ -117,3 +97,7 @@ So to get going I am going to create a small project - with a test project, and 
 |25/5/2022|Reading Article|[End to End Unit Testing for .NET 6 Web API](https://medium.com/@niteshsinghal85/end-to-end-unit-testing-for-net-6-web-api-58883d1b2fe4)|Medium|5 Minutes|Testing|
 |25/5/2022|Reading Article|[How not to use automapper (featuring Jimmy Bogard)](https://medium.com/@woeterman_94/how-not-to-use-automapper-featuring-jimmy-bogard-33aa0391c98e)|Medium|5 Minutes|.NET, AutoMapper|
 |25/5/2022|Reading Article|[AutoMapper Usage Guidelines](https://jimmybogard.com/automapper-usage-guidelines/)|JIMMY BOGARD|4 minutes|.NET, AutoMapper|
+|30/5/2022|Writing Notes|[A perspective on .NET Mapping](/notes/a-perspective-on-dotnet-mapping.md)|3 Minutes|.NET, Object Mapping|
+|30/5/2022|Writing Notes|[A perspective on .NET Mapping](/notes/a-perspective-on-dotnet-mapping.md)|20 Minutes|.NET, Object Mapping|
+|30/5/2022|Virtual Training|Microsoft Virtual Training Day 1 - Cloud Native Apps|Microsoft|140 Minutes|Cloud Native Apps|
+|30/5/2022|[Introduction to cloud-native apps on Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-to-cloud-native-apps/)|27 Minutes|Cloud Native|
