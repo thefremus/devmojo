@@ -74,7 +74,7 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |18/5/2022|Reading Article|[OpenTelemetry with Jaeger in .NET Core](https://medium.com/@niteshsinghal85/opentelemetry-with-jaeger-in-net-core-9b1e009a73dc)|Medium|4 Minutes|ASP.NET Core, Telemetry|
 |18/5/2022|Reading Article|[Different Ways to Inject Dependencies in .NET Core](https://medium.com/@AzilenTech/different-ways-to-inject-dependencies-in-net-core-d147ad0279cd)|Medium|5 Minutes|.NET Core, Dependency Injection, Inversion of Control|
 |18/5/2022|Reading Article|[Using Multiple DbContext on .NET 6 Web API With Repository Pattern](https://muratsuzen.medium.com/using-multiple-dbcontext-on-net-6-web-api-with-repository-pattern-3d223874e625)|Medium|3 Minutes|ASP.NET Core, EF Core, Dependency Injection  |
-|18/5/2022|Writing Notes|[Introducing .NET MAUI](/notes/introducing-net-maui.md)|GitHub|30 Minutes|.NET MAUI|
+|18/5/2022|Writing Notes|[Introducing .NET MAUI](/notes/introducing-net-maui.md)|repo notes|30 Minutes|.NET MAUI|
 |19/5/2022|Reading Article|[Scoped, Transient and Singleton](https://taylancanh.medium.com/scoped-transient-and-singleton-e6c4f8811b52)   |Medium |3 Minutes|.NET Core, Scopes  |
 |19/5/2022|Reading Article|[Good API design, bad API design](https://levelup.gitconnected.com/good-api-design-bad-api-design-2405dcdde24c)|Medium |4 Minutes|API Design         |
 |19/5/2022|Reading Article|[How to use C# delegates to sanitise your codebase](https://mina-pecheux.medium.com/how-to-use-c-delegates-to-sanitise-your-codebase-424835e8ce28)|Medium|7 Minutes|.NET, C#, Delegates|
@@ -97,7 +97,7 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |25/5/2022|Reading Article|[End to End Unit Testing for .NET 6 Web API](https://medium.com/@niteshsinghal85/end-to-end-unit-testing-for-net-6-web-api-58883d1b2fe4)|Medium|5 Minutes|Testing|
 |25/5/2022|Reading Article|[How not to use automapper (featuring Jimmy Bogard)](https://medium.com/@woeterman_94/how-not-to-use-automapper-featuring-jimmy-bogard-33aa0391c98e)|Medium|5 Minutes|.NET, AutoMapper|
 |25/5/2022|Reading Article|[AutoMapper Usage Guidelines](https://jimmybogard.com/automapper-usage-guidelines/)|JIMMY BOGARD|4 minutes|.NET, AutoMapper|
-|30/5/2022|Writing Notes|[A perspective on .NET Mapping](/notes/a-perspective-on-dotnet-mapping.md)|repo|3 Minutes|.NET, Object Mapping|
-|30/5/2022|Writing Notes|[A perspective on .NET Mapping](/notes/a-perspective-on-dotnet-mapping.md)|repo|20 Minutes|.NET, Object Mapping|
+|30/5/2022|Writing Notes|[A perspective on .NET Mapping](/notes/a-perspective-on-dotnet-mapping.md)|repo notes|3 Minutes|.NET, Object Mapping|
+|30/5/2022|Writing Notes|[A perspective on .NET Mapping](/notes/a-perspective-on-dotnet-mapping.md)|repo notes|20 Minutes|.NET, Object Mapping|
 |30/5/2022|Virtual Training|Microsoft Virtual Training Day 1 - Cloud Native Apps|Microsoft|140 Minutes|Cloud Native Apps|
 |30/5/2022|Microsoft Learn|[Introduction to cloud-native apps on Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-to-cloud-native-apps/)|Microsoft Learn|27 Minutes|Cloud Native|
