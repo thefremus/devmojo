@@ -100,4 +100,4 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |30/5/2022|Writing Notes|[A perspective on .NET Mapping](/notes/a-perspective-on-dotnet-mapping.md)|3 Minutes|.NET, Object Mapping|
 |30/5/2022|Writing Notes|[A perspective on .NET Mapping](/notes/a-perspective-on-dotnet-mapping.md)|20 Minutes|.NET, Object Mapping|
 |30/5/2022|Virtual Training|Microsoft Virtual Training Day 1 - Cloud Native Apps|Microsoft|140 Minutes|Cloud Native Apps|
-|30/5/2022|[Introduction to cloud-native apps on Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-to-cloud-native-apps/)|27 Minutes|Cloud Native|
+|30/5/2022|Microsoft Learn|[Introduction to cloud-native apps on Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-to-cloud-native-apps/)|27 Minutes|Cloud Native|
