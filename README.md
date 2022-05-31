@@ -101,3 +101,6 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |30/5/2022|Writing Notes|[A perspective on .NET Mapping](/notes/a-perspective-on-dotnet-mapping.md)|repo notes|20 Minutes|.NET, Object Mapping|
 |30/5/2022|Virtual Training|Microsoft Virtual Training Day 1 - Cloud Native Apps|Microsoft|140 Minutes|Cloud Native Apps|
 |30/5/2022|Microsoft Learn|[Introduction to cloud-native apps on Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-to-cloud-native-apps/)|Microsoft Learn|27 Minutes|Cloud Native|
+|30/5/2022|Microsoft Learn|[Create a UI in a .NET MAUI app by using XAML](https://docs.microsoft.com/en-us/learn/dotnet-maui/create-user-interface-xaml/)|Microsoft Learn|52 Minutes|.NET MAUI|
+|31/5/2022|Watch Video|[Why I won’t need constructors anymore in C# 11](https://www.youtube.com/watch?v=9CDgPgWF9IY)|YouTube|9 minutes|CSharp|
+|31/5/2022|Reading Repo|[Mapster](https://github.com/MapsterMapper/Mapster)|GitHub|2 Minutes|CSharp,.NET,Mapping|
