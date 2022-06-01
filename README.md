@@ -107,5 +107,6 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |31/5/2022|Virtual Training|Microsoft Virtual Training Day 2 - Cloud Native Apps|Microsoft|127  |Cloud Native Apps|
 |1/6/2022|Watch Video|[The setup "trick" that .NET libraries use and you should too](https://www.youtube.com/watch?v=kIkbGXLkc-g)|YouTube|10  |CSharp,.NET|
 |1/6/2022|Microsoft Learning|[Customize layout in .NET MAUI XAML pages ](https://docs.microsoft.com/en-us/learn/dotnet-maui/customize-xaml-pages-layout/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.dotnet-maui.build-apps-with-dotnet-maui)|Microsoft Learn|60  |.NET MAUI|
+|1/6/2022|
 
 *minutes
