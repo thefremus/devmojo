@@ -104,3 +104,6 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |30/5/2022|Microsoft Learn|[Create a UI in a .NET MAUI app by using XAML](https://docs.microsoft.com/en-us/learn/dotnet-maui/create-user-interface-xaml/)|Microsoft Learn|52 Minutes|.NET MAUI|
 |31/5/2022|Watch Video|[Why I won’t need constructors anymore in C# 11](https://www.youtube.com/watch?v=9CDgPgWF9IY)|YouTube|9 minutes|CSharp|
 |31/5/2022|Reading Repo|[Mapster](https://github.com/MapsterMapper/Mapster)|GitHub|2 Minutes|CSharp,.NET,Mapping|
+|31/5/2022|Virtual Training|Microsoft Virtual Training Day 2 - Cloud Native Apps|Microsoft|127 Minutes|Cloud Native Apps|
+|1/6/2022|Watch Video|[The setup "trick" that .NET libraries use and you should too](https://www.youtube.com/watch?v=kIkbGXLkc-g)|YouTube|10 Minutes|CSharp,.NET|
+|1/6/2022|Microsoft Learning|[Customize layout in .NET MAUI XAML pages ](https://docs.microsoft.com/en-us/learn/dotnet-maui/customize-xaml-pages-layout/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.dotnet-maui.build-apps-with-dotnet-maui)|60 minutes|.NET MAUI|
