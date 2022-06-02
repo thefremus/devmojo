@@ -113,7 +113,9 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |2/6/2022|Reading Article|[Why you shouldn’t use the Dynamic type in .NET](https://anthony-trad.medium.com/why-you-shouldnt-use-the-dynamic-type-in-net-989b5b7c81d8)|Medium|3|.NET, dynamic|
 |2/6/2022|Reading Article|[The Difference Between Dependency Inversion and Dependency Injection](https://medium.com/codex/the-difference-between-dependency-inversion-and-dependency-injection-15935337ca1b)|Medium|10|.NET, Dependency Inversion, Dependency Injection|
 |2/6/2022|Reading Article|[Authentication and Authorization in .NET 6 with JWT and ASP.Net Identity](https://medium.com/@ajidejibola/authentication-and-authorization-in-net-6-with-jwt-and-asp-net-identity-2566e75851fe)|Medium|6|ASP.NET, Authentication, Authorization|
-|2/6/2022|Reading Article|[](https://devrodge.medium.com/what-is-the-best-frontend-option-for-net-backend-4e4fa65cb036)|Medium|5|ASP.NET Core|
+|2/6/2022|Reading Article|[What is The Best Frontend Option for .Net Backend?](https://devrodge.medium.com/what-is-the-best-frontend-option-for-net-backend-4e4fa65cb036)|Medium|5|ASP.NET Core|
+|2/6/2022|Microsoft Learning|[Design consistent .NET MAUI XAML pages by using shared resources](https://docs.microsoft.com/en-us/learn/dotnet-maui/use-shared-resources/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.dotnet-maui.build-apps-with-dotnet-maui)|Microsoft Learn|60|.NET MAUI|
+|2/6/2022|Reading Article|[.NET MAUI released as stable … but it absolutely isn’t](https://medium.com/@xeladu/net-maui-released-as-stable-but-it-absolutely-isnt-735df7e14113)|Medium|4|.NET MAUI|
 
 
 *minutes
