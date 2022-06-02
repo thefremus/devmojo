@@ -108,5 +108,12 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |1/6/2022|Watch Video|[The setup "trick" that .NET libraries use and you should too](https://www.youtube.com/watch?v=kIkbGXLkc-g)|YouTube|10  |CSharp,.NET|
 |1/6/2022|Microsoft Learning|[Customize layout in .NET MAUI XAML pages ](https://docs.microsoft.com/en-us/learn/dotnet-maui/customize-xaml-pages-layout/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.dotnet-maui.build-apps-with-dotnet-maui)|Microsoft Learn|60  |.NET MAUI|
 |1/6/2022|
+|1/6/2022|Writing Notes|[A perspective on .NET Mapping](/notes/a-perspective-on-dotnet-mapping.md)|repo notes|120  |.NET, Object Mapping|
+|2/6/2022|Reading Article|[Clean Architecture — ASP.NET Core API using Partitioned Repository Pattern with Azure Cosmos DB](https://medium.com/swlh/clean-architecture-with-partitioned-repository-pattern-using-azure-cosmos-db-62241854cbc5)|Medium|6|Clean Architecture, .NET, Cosmos DB|
+|2/6/2022|Reading Article|[Why you shouldn’t use the Dynamic type in .NET](https://anthony-trad.medium.com/why-you-shouldnt-use-the-dynamic-type-in-net-989b5b7c81d8)|Medium|3|.NET, dynamic|
+|2/6/2022|Reading Article|[The Difference Between Dependency Inversion and Dependency Injection](https://medium.com/codex/the-difference-between-dependency-inversion-and-dependency-injection-15935337ca1b)|Medium|10|.NET, Dependency Inversion, Dependency Injection|
+|2/6/2022|Reading Article|[Authentication and Authorization in .NET 6 with JWT and ASP.Net Identity](https://medium.com/@ajidejibola/authentication-and-authorization-in-net-6-with-jwt-and-asp-net-identity-2566e75851fe)|Medium|6|ASP.NET, Authentication, Authorization|
+|2/6/2022|Reading Article|[](https://devrodge.medium.com/what-is-the-best-frontend-option-for-net-backend-4e4fa65cb036)|Medium|5|ASP.NET Core|
+
 
 *minutes
