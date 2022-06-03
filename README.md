@@ -120,6 +120,8 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |3/6/2022|Reading Article|[5 (Important) Tips to Writing Clean C# Code in 2022](https://medium.com/dotnetsafer/5-tips-to-writing-clean-csharp-code-1e145d9435e6)|Medium|4|.NET, Coding Standards|
 |3/6/2022|Reading Article|[Abstraction in C#](https://medium.com/@ghanshyam.skipper/abstraction-in-c-aa0c38d887dd)|Medium|3|.NET, Abstraction|
 |3/6/2022|Reading Article|[The absolutely horrendous things you need to do to migrate to ASP.NET Core 6.x from 3.x & .NET 4.8](https://todayamerican.medium.com/the-absolutely-horrendous-thing-you-need-to-do-to-migrate-to-asp-net-core-6-x-from-3-x-59588a731f86)|Medium|9|.NET|
+|3/6/2022|Microsoft Learning|[Create multi-page .NET MAUI apps with tab and flyout navigation](https://docs.microsoft.com/en-us/learn/dotnet-maui/create-multi-page-apps/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.dotnet-maui.build-apps-with-dotnet-maui)|Microsoft Learn|50|.NET MAUI|
+|3/6/2022|Microsoft Learning|[Consume REST web services in .NET MAUI apps](https://docs.microsoft.com/en-us/learn/dotnet-maui/consume-rest-services/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.dotnet-maui.build-apps-with-dotnet-maui)|Microsoft Learn|45|.NET MAUI|
 
 
 *minutes
