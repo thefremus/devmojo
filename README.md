@@ -116,6 +116,10 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |2/6/2022|Reading Article|[What is The Best Frontend Option for .Net Backend?](https://devrodge.medium.com/what-is-the-best-frontend-option-for-net-backend-4e4fa65cb036)|Medium|5|ASP.NET Core|
 |2/6/2022|Microsoft Learning|[Design consistent .NET MAUI XAML pages by using shared resources](https://docs.microsoft.com/en-us/learn/dotnet-maui/use-shared-resources/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.dotnet-maui.build-apps-with-dotnet-maui)|Microsoft Learn|60|.NET MAUI|
 |2/6/2022|Reading Article|[.NET MAUI released as stable … but it absolutely isn’t](https://medium.com/@xeladu/net-maui-released-as-stable-but-it-absolutely-isnt-735df7e14113)|Medium|4|.NET MAUI|
+|3/6/2022|Reading Article|[Use FluentValidation in ASP.NET or ASP.NET Core](https://medium.com/dotnet-hub/use-fluentvalidation-in-asp-net-or-asp-net-core-d0b891e5e87b)|Medium|3|.NET, Validation|
+|3/6/2022|Reading Article|[5 (Important) Tips to Writing Clean C# Code in 2022](https://medium.com/dotnetsafer/5-tips-to-writing-clean-csharp-code-1e145d9435e6)|Medium|4|.NET, Coding Standards|
+|3/6/2022|Reading Article|[Abstraction in C#](https://medium.com/@ghanshyam.skipper/abstraction-in-c-aa0c38d887dd)|Medium|3|.NET, Abstraction|
+|3/6/2022|Reading Article|[The absolutely horrendous things you need to do to migrate to ASP.NET Core 6.x from 3.x & .NET 4.8](https://todayamerican.medium.com/the-absolutely-horrendous-thing-you-need-to-do-to-migrate-to-asp-net-core-6-x-from-3-x-59588a731f86)|Medium|9|.NET|
 
 
 *minutes
