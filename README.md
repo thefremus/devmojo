@@ -135,5 +135,6 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |9/6/2022|Reading Article|[A Practical Guide to Azure Durable Functions — Part 2: Dependency Injection](https://medium.com/swlh/a-practical-guide-to-azure-durable-functions-part-2-dependency-injection-facadc8238af)|Medium|6|Azure Functions|
 |9/6/2022|Reading Article|[A Practical Guide to Azure Durable Functions — Part 3: Configurations](https://medium.com/analytics-vidhya/a-practical-guide-to-azure-durable-functions-part-3-configurations-6baa1b49f532)|Medium|7|Azure Functions|
 |9/6/2022|Reading Article|[A Practical Guide to Azure Durable Functions — Part 4: Retry](https://levelup.gitconnected.com/a-practical-guide-to-azure-durable-functions-part-4-retry-3b60c46067fa)|Medium|6|Azure Functions|
+|9/6/2022|Writing Notes|[.NET MAUI First Impressions](/notes/net-maui-first-impressions.md)|repo notes|45|.NET MAUI|
 
 *minutes
