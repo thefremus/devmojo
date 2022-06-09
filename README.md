@@ -122,6 +122,18 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |3/6/2022|Reading Article|[The absolutely horrendous things you need to do to migrate to ASP.NET Core 6.x from 3.x & .NET 4.8](https://todayamerican.medium.com/the-absolutely-horrendous-thing-you-need-to-do-to-migrate-to-asp-net-core-6-x-from-3-x-59588a731f86)|Medium|9|.NET|
 |3/6/2022|Microsoft Learning|[Create multi-page .NET MAUI apps with tab and flyout navigation](https://docs.microsoft.com/en-us/learn/dotnet-maui/create-multi-page-apps/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.dotnet-maui.build-apps-with-dotnet-maui)|Microsoft Learn|50|.NET MAUI|
 |3/6/2022|Microsoft Learning|[Consume REST web services in .NET MAUI apps](https://docs.microsoft.com/en-us/learn/dotnet-maui/consume-rest-services/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.dotnet-maui.build-apps-with-dotnet-maui)|Microsoft Learn|45|.NET MAUI|
-
+|6/6/2022|Reading Article|[Consume Web API with C# HttpClientFactory](https://medium.com/@ajidejibola/consume-web-api-with-c-httpclient-367c1f562305)|Medium|4|ASP.NET Core, HttpClientFactory|
+|6/6/2022|Reading Article|[How Experienced Programmers Code Quickly](https://javascript.plainenglish.io/how-experienced-programmers-code-quickly-da33d58b162d)|Medium|4|General Programming|
+|6/6/2022|Virtual Training|Save the date: Microsoft Azure Virtual Training Day: Fundamentals Part 1|Microsoft|105  |Fundamentals|
+|7/6/2022|Microsoft Learning|[Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.azure-static-web-apps)|Microsoft Learn|20|Azure Static Web Apps|
+|7/6/2022|Microsoft Learning|[Publish an API to Azure Static Web Apps](https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-api-preview-url/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.azure-static-web-apps)|Microsoft Learn|30|Azure Static Web Apps|
+|8/6/2022|Reading Documentation|[Cache NuGet packages](https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/caching-nuget?view=azure-devops)|Microsoft Docs|2|nuget|
+|8/6/2022|[The most interesting C# / .NET blogs and websites](https://medium.com/c-sharp-progarmming/the-most-interesting-c-net-blogs-and-websites-724da4fedf5d)|Medium|4|CSharp|
+|8/6/2022|[Implementing Clean Architecture, DDD-style, with .NET Core](https://medium.com/vx-company/implementing-clean-architecture-ddd-style-in-net-core-3bc3899f5978)|Medium|6|.NET, DDD, Clean Architecture|
+|8/6/2022|[3 Tips on API Responses for Backend Developers](https://betterprogramming.pub/3-tips-on-api-responses-for-backend-developers-8df31c23882e)|Medium|4|Api Design|
+|9/6/2022|[A Practical Guide to Azure Durable Functions — Part 1: Introduction](https://medium.com/@allen.zhang1983713/a-practical-guide-to-azure-durable-functions-part-1-introduction-79d1488ebc17)|Medium|5|Azure Functions|
+|9/6/2022|[A Practical Guide to Azure Durable Functions — Part 2: Dependency Injection](https://medium.com/swlh/a-practical-guide-to-azure-durable-functions-part-2-dependency-injection-facadc8238af)|Medium|6|Azure Functions|
+|9/6/2022|[A Practical Guide to Azure Durable Functions — Part 3: Configurations](https://medium.com/analytics-vidhya/a-practical-guide-to-azure-durable-functions-part-3-configurations-6baa1b49f532)|Medium|7|Azure Functions|
+|9/6/2022|[](https://levelup.gitconnected.com/a-practical-guide-to-azure-durable-functions-part-4-retry-3b60c46067fa)|Medium|6|Azure Functions|
 
 *minutes
