@@ -128,12 +128,12 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |7/6/2022|Microsoft Learning|[Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.azure-static-web-apps)|Microsoft Learn|20|Azure Static Web Apps|
 |7/6/2022|Microsoft Learning|[Publish an API to Azure Static Web Apps](https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-api-preview-url/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.azure-static-web-apps)|Microsoft Learn|30|Azure Static Web Apps|
 |8/6/2022|Reading Documentation|[Cache NuGet packages](https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/caching-nuget?view=azure-devops)|Microsoft Docs|2|nuget|
-|8/6/2022|[The most interesting C# / .NET blogs and websites](https://medium.com/c-sharp-progarmming/the-most-interesting-c-net-blogs-and-websites-724da4fedf5d)|Medium|4|CSharp|
-|8/6/2022|[Implementing Clean Architecture, DDD-style, with .NET Core](https://medium.com/vx-company/implementing-clean-architecture-ddd-style-in-net-core-3bc3899f5978)|Medium|6|.NET, DDD, Clean Architecture|
-|8/6/2022|[3 Tips on API Responses for Backend Developers](https://betterprogramming.pub/3-tips-on-api-responses-for-backend-developers-8df31c23882e)|Medium|4|Api Design|
-|9/6/2022|[A Practical Guide to Azure Durable Functions — Part 1: Introduction](https://medium.com/@allen.zhang1983713/a-practical-guide-to-azure-durable-functions-part-1-introduction-79d1488ebc17)|Medium|5|Azure Functions|
-|9/6/2022|[A Practical Guide to Azure Durable Functions — Part 2: Dependency Injection](https://medium.com/swlh/a-practical-guide-to-azure-durable-functions-part-2-dependency-injection-facadc8238af)|Medium|6|Azure Functions|
-|9/6/2022|[A Practical Guide to Azure Durable Functions — Part 3: Configurations](https://medium.com/analytics-vidhya/a-practical-guide-to-azure-durable-functions-part-3-configurations-6baa1b49f532)|Medium|7|Azure Functions|
-|9/6/2022|[](https://levelup.gitconnected.com/a-practical-guide-to-azure-durable-functions-part-4-retry-3b60c46067fa)|Medium|6|Azure Functions|
+|8/6/2022|Reading Article|[The most interesting C# / .NET blogs and websites](https://medium.com/c-sharp-progarmming/the-most-interesting-c-net-blogs-and-websites-724da4fedf5d)|Medium|4|CSharp|
+|8/6/2022|Reading Article|[Implementing Clean Architecture, DDD-style, with .NET Core](https://medium.com/vx-company/implementing-clean-architecture-ddd-style-in-net-core-3bc3899f5978)|Medium|6|.NET, DDD, Clean Architecture|
+|8/6/2022|Reading Article|[3 Tips on API Responses for Backend Developers](https://betterprogramming.pub/3-tips-on-api-responses-for-backend-developers-8df31c23882e)|Medium|4|Api Design|
+|9/6/2022|Reading Article|[A Practical Guide to Azure Durable Functions — Part 1: Introduction](https://medium.com/@allen.zhang1983713/a-practical-guide-to-azure-durable-functions-part-1-introduction-79d1488ebc17)|Medium|5|Azure Functions|
+|9/6/2022|Reading Article|[A Practical Guide to Azure Durable Functions — Part 2: Dependency Injection](https://medium.com/swlh/a-practical-guide-to-azure-durable-functions-part-2-dependency-injection-facadc8238af)|Medium|6|Azure Functions|
+|9/6/2022|Reading Article|[A Practical Guide to Azure Durable Functions — Part 3: Configurations](https://medium.com/analytics-vidhya/a-practical-guide-to-azure-durable-functions-part-3-configurations-6baa1b49f532)|Medium|7|Azure Functions|
+|9/6/2022|Reading Article|[A Practical Guide to Azure Durable Functions — Part 4: Retry](https://levelup.gitconnected.com/a-practical-guide-to-azure-durable-functions-part-4-retry-3b60c46067fa)|Medium|6|Azure Functions|
 
 *minutes
