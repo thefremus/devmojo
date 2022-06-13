@@ -22,7 +22,7 @@ So the first step is to create a new .NET MAUI project - you can do this either 
 
 ![.NET Core CLI gitignore template](img/dotnet-cli-gitignore-template.png)
 
-Using the template saves you the tedious trouble of finding a gitignore for Visual Studio. So to get the `gitignore` simply run `dotnet new gitignore`. Then you create a new solution file using `dotnet new sln --name ConsumerAgent` followed by `dotnet new maui --name ConsumerAgent`. You can then add the newly create project to the solution using `dotnet sln add ConsumerAgent\ConsumerAgent.csproj`. Then using Visual Studio open `ConsumerAgent.sln`.
+Using the template saves you the tedious trouble of finding a gitignore for Visual Studio. So to get the `gitignore` simply run `dotnet new gitignore`. Then you create a new solution file using `dotnet new sln --name ConsumerAgent` followed by `dotnet new maui --name ConsumerAgent`. You can then add the newly created project to the solution using `dotnet sln add ConsumerAgent\ConsumerAgent.csproj`. Then using Visual Studio open `ConsumerAgent.sln`.
 
 ![Consumer Agent Solution](img/consumer-agent-solution.png)
 
