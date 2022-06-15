@@ -136,5 +136,11 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |9/6/2022|Reading Article|[A Practical Guide to Azure Durable Functions — Part 3: Configurations](https://medium.com/analytics-vidhya/a-practical-guide-to-azure-durable-functions-part-3-configurations-6baa1b49f532)|Medium|7|Azure Functions|
 |9/6/2022|Reading Article|[A Practical Guide to Azure Durable Functions — Part 4: Retry](https://levelup.gitconnected.com/a-practical-guide-to-azure-durable-functions-part-4-retry-3b60c46067fa)|Medium|6|Azure Functions|
 |9/6/2022|Writing Notes|[.NET MAUI First Impressions](/notes/net-maui-first-impressions.md)|repo notes|45|.NET MAUI|
+|13/6/2022|Reading Article|[PriorityQueue in .NET 6](https://medium.com/@aleksandr.maslovskii.1990/priorityqueue-in-net-6-93e1036987eb)|Medium|6|.NET, .NET6.0, PriorityQueues|
+|13/6/2022|Reading Article|[Benchmark: How to use C# Parallel.ForEachAsync for 3x faster bulk file downloading time](https://levelup.gitconnected.com/benchmark-how-to-use-c-parallel-foreachasync-for-3x-faster-bulk-file-downloading-time-5c847297688f)|Medium|3|.NET, Parallelism|
+|14/6/2022|Reading Article|[Guide on Writing Clean Code](https://mrtoz.medium.com/guide-on-writing-clean-code-496bb1100cde)|Medium|11|Clean Code|
+|14/6/2022|Reading Article|[Real World Use Cases: Adapter Design Pattern (in C#)](https://medium.com/@mostafa.a.mohammed/real-world-use-cases-adapter-design-pattern-for-email-providers-in-c-c76cbea3be4c)|Medium|5|Adapter Pattern|
+|14/6/2022|Reading Article|[Difference between AddScoped and AddTransient in .NET 6](https://medium.com/@aleksandr.maslovskii.1990/difference-between-addscoped-and-addtransient-in-net-6-f6eb6813024)|Medium|5|Dependency Injection|
+|15/6/2022|Reading Article|[Why you should not use Xamarin.Forms or .NET MAUI](https://medium.com/@sascha.muellner/why-you-should-not-use-xamarin-forms-6318d7b9aa2f)|Medium|5|.NET MAUI|
 
 *minutes
