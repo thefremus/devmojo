@@ -144,6 +144,6 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |15/6/2022|Reading Article|[Why you should not use Xamarin.Forms or .NET MAUI](https://medium.com/@sascha.muellner/why-you-should-not-use-xamarin-forms-6318d7b9aa2f)|Medium|5|.NET MAUI|
 |15/6/2022|Reading Article|[Cloud-native Apps Deliver the Scale and Performance That Developers and Organizations Need](https://www.linkedin.com/pulse/cloud-native-apps-deliver-scale-performance-need-scott-guthrie/?trackingId=%2FneeU26jrMxjU6nYxeDnbQ%3D%3D)|LinkedIn|4|Azure|
 |15/6/2022|Reading Article|[Interface in OOPs](https://medium.com/@gaurav.kaushik1101/interface-in-oops-2395b77ea3d7)|Medium|2|CSharp, OOP|
-|17/6/2022|Writing Notes|
+|17/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|30|.NET MAUI|
 
 *minutes
