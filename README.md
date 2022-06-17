@@ -142,5 +142,8 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |14/6/2022|Reading Article|[Real World Use Cases: Adapter Design Pattern (in C#)](https://medium.com/@mostafa.a.mohammed/real-world-use-cases-adapter-design-pattern-for-email-providers-in-c-c76cbea3be4c)|Medium|5|Adapter Pattern|
 |14/6/2022|Reading Article|[Difference between AddScoped and AddTransient in .NET 6](https://medium.com/@aleksandr.maslovskii.1990/difference-between-addscoped-and-addtransient-in-net-6-f6eb6813024)|Medium|5|Dependency Injection|
 |15/6/2022|Reading Article|[Why you should not use Xamarin.Forms or .NET MAUI](https://medium.com/@sascha.muellner/why-you-should-not-use-xamarin-forms-6318d7b9aa2f)|Medium|5|.NET MAUI|
+|15/6/2022|Reading Article|[Cloud-native Apps Deliver the Scale and Performance That Developers and Organizations Need](https://www.linkedin.com/pulse/cloud-native-apps-deliver-scale-performance-need-scott-guthrie/?trackingId=%2FneeU26jrMxjU6nYxeDnbQ%3D%3D)|LinkedIn|4|Azure|
+|15/6/2022|Reading Article|[Interface in OOPs](https://medium.com/@gaurav.kaushik1101/interface-in-oops-2395b77ea3d7)|Medium|2|CSharp, OOP|
+|17/6/2022|Writing Notes|
 
 *minutes
