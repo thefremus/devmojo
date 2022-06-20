@@ -145,5 +145,12 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |15/6/2022|Reading Article|[Cloud-native Apps Deliver the Scale and Performance That Developers and Organizations Need](https://www.linkedin.com/pulse/cloud-native-apps-deliver-scale-performance-need-scott-guthrie/?trackingId=%2FneeU26jrMxjU6nYxeDnbQ%3D%3D)|LinkedIn|4|Azure|
 |15/6/2022|Reading Article|[Interface in OOPs](https://medium.com/@gaurav.kaushik1101/interface-in-oops-2395b77ea3d7)|Medium|2|CSharp, OOP|
 |17/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|30|.NET MAUI|
+|18/6/2022|Reading Article|[These 5 C# Guidelines (Revealed by a SENIOR DEVELOPER) will Change your Coding Style](https://medium.com/dotnetsafer/these-5-c-guidelines-revealed-by-a-senior-developer-will-change-your-coding-style-be78501daf54)|Medium|4|.NET|
+|18/6/2022|Reading Article|[New Resources to Get Started with .NET MAUI](https://devblogs.microsoft.com/dotnet/learn-dotnet-maui/)|.NET Blog|10|.NET MAUI|
+|18/6/2022|Watching Video|[What is .NET MAUI? [1 of 8] | .NET MAUI for Beginners](https://www.youtube.com/watch?v=Hh279ES_FNQ&list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY&index=1)|YouTube|3|.NET MAUI|
+|18/6/2022|Watching Video|[How to Install .NET MAUI on a PC [2 of 8] | .NET MAUI for Beginners](https://www.youtube.com/watch?v=8UkEP6u-55Y&list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY&index=2)|YouTube|4|.NET MAUI|
+|18/6/2022|Watching Video|[.NET MAUI Architecture Overview [3 of 8] | .NET MAUI for Beginners](https://www.youtube.com/watch?v=LH4z74QBWU8&list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY&index=3)|YouTube|15|.NET MAUI|
+|19/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|15|.NET MAUI|
+|20/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|20|.NET MAUI|
 
 *minutes
