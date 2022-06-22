@@ -147,9 +147,9 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |17/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|30|.NET MAUI|
 |18/6/2022|Reading Article|[These 5 C# Guidelines (Revealed by a SENIOR DEVELOPER) will Change your Coding Style](https://medium.com/dotnetsafer/these-5-c-guidelines-revealed-by-a-senior-developer-will-change-your-coding-style-be78501daf54)|Medium|4|.NET|
 |18/6/2022|Reading Article|[New Resources to Get Started with .NET MAUI](https://devblogs.microsoft.com/dotnet/learn-dotnet-maui/)|.NET Blog|10|.NET MAUI|
-|18/6/2022|Watching Video|[What is .NET MAUI? [1 of 8] | .NET MAUI for Beginners](https://www.youtube.com/watch?v=Hh279ES_FNQ&list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY&index=1)|YouTube|3|.NET MAUI|
-|18/6/2022|Watching Video|[How to Install .NET MAUI on a PC [2 of 8] | .NET MAUI for Beginners](https://www.youtube.com/watch?v=8UkEP6u-55Y&list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY&index=2)|YouTube|4|.NET MAUI|
-|18/6/2022|Watching Video|[.NET MAUI Architecture Overview [3 of 8] | .NET MAUI for Beginners](https://www.youtube.com/watch?v=LH4z74QBWU8&list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY&index=3)|YouTube|15|.NET MAUI|
+|18/6/2022|Watching Video|[What is .NET MAUI? [1 of 8] .NET MAUI for Beginners](https://www.youtube.com/watch?v=Hh279ES_FNQ&list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY&index=1)|YouTube|3|.NET MAUI|
+|18/6/2022|Watching Video|[How to Install .NET MAUI on a PC [2 of 8] .NET MAUI for Beginners](https://www.youtube.com/watch?v=8UkEP6u-55Y&list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY&index=2)|YouTube|4|.NET MAUI|
+|18/6/2022|Watching Video|[.NET MAUI Architecture Overview [3 of 8] .NET MAUI for Beginners](https://www.youtube.com/watch?v=LH4z74QBWU8&list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY&index=3)|YouTube|15|.NET MAUI|
 |19/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|15|.NET MAUI|
 |20/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|20|.NET MAUI|
 |21/6/2022|Reading Article|[Discorver the First .NET MAUI (Release Candidate) Features!](https://medium.com/dotnetsafer/discorver-the-first-net-maui-release-candidate-features-800d7f1bc5d5)|Medium|3|.NET MAUI|
