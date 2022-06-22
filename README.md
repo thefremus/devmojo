@@ -154,5 +154,6 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |20/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|20|.NET MAUI|
 |21/6/2022|Reading Article|[Discorver the First .NET MAUI (Release Candidate) Features!](https://medium.com/dotnetsafer/discorver-the-first-net-maui-release-candidate-features-800d7f1bc5d5)|Medium|3|.NET MAUI|
 |22/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|20|.NET MAUI|
+|23/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|60|.NET MAUI|
 
 *minutes
