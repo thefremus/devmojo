@@ -1,5 +1,7 @@
 # Styling your .NET MAUI App
 
+![Styling your .NET MAUI app](img/styling-dotnet-maui.jpg)
+
 ## It all starts somewhere
 
 So I want to write a small application using .NET MAUI. The application will run on Windows - I'm not going down the road of getting it to run on Android as yet. I personally feel a .NET MAUI app can be a replacement for a WinForms application. Why not right? So my idea for an application is to capture transaction details from my trips to the shop. I think it could be interesting to build up a dataset of shopping trips over an extended period of time. I am calling it ConsumerAgent.
