@@ -4,7 +4,7 @@
 
 ## It all starts somewhere
 
-As part of the learning process I want to create a small application using .NET MAUI. The application will run on Windows for the time being. .NET MAUI is a great alternative to WinForms or WPF. Why not right? The idea for my application is super simple - create an application to capture the receipts from all my shopping trips to the various retail shops - lets call it ConsumerAgent. I think it could be interesting to build up a dataset of shopping trips over an extended period of time. Imagine seeing the price of bread over a period of time or any other grocery item for that matter.
+As part of the learning process I want to create a small application using .NET MAUI. The application will run on Windows for the time being. .NET MAUI is a great alternative to WinForms or WPF. Why not right? The idea for my application is super simple - create an application to capture the receipts from all my shopping trips to the various retail shops - lets call it ConsumerAgent. You can [view the repository](https://github.com/thefremus/ConsumerAgent). I think it could be interesting to build up a dataset of shopping trips over an extended period of time. Imagine seeing the price of bread over a period of time or any other grocery item for that matter.
 
 The application will start off consisting of two pages. The first page will list my most recent retailer trips. The second page will allow me to capture the transaction receipts.
 
@@ -81,3 +81,9 @@ I can apply the styling to the button on the `RetailerTrips` page as well.
 ![Retailer Trips Page](img/retailer-trips-page-after.png)
 
 Not pretty - but it conveys the concept clearly.
+
+## Next steps
+
+I think I have barely touched the surface with regards to styling .NET MAUI apps. In addition to setting up application wide styling you can also inherit styling at a page level. Inheriting it at a page level allows you to override the base style with custom values or adding additional styling. Apart from styling there are other important aspects as well - like layouts. I will be looking at understanding layouts better next. 
+
+Thanks for reading!
