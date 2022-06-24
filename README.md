@@ -155,5 +155,10 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |21/6/2022|Reading Article|[Discorver the First .NET MAUI (Release Candidate) Features!](https://medium.com/dotnetsafer/discorver-the-first-net-maui-release-candidate-features-800d7f1bc5d5)|Medium|3|.NET MAUI|
 |22/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|20|.NET MAUI|
 |23/6/2022|Writing Notes|[Styling your .NET MAUI App](notes/styling-net-maui-app.md)|repo notes|60|.NET MAUI|
+|23/6/2022|Reading Article|[The Best New Way To Cache API Responses with Angular & RxJs](https://tomastrajan.medium.com/the-best-new-way-to-cache-api-responses-with-angular-rxjs-5cbc05d12f10)|Medium|9|Angular, RxJS|
+|23/6/2022|Reading Article|[The Modern Developer Stack — 2022 Edition](https://betterprogramming.pub/the-modern-developer-stack-2022-edition-b5f515635c54)|Medium|9|Developer Tools|
+|24/6/2022|Reading Article|[What is the Cartesian Explosion in EF Core?](https://medium.com/@haris_tauqir/what-is-the-cartesian-explosion-in-ef-core-97470c062443)|Medium|2|.NET, Entity Framework|
+|24/6/2022|Reading Article|[Code Smell 143 — Data Clumps](https://levelup.gitconnected.com/code-smell-143-data-clumps-86cfe2f36a19)|Medium|2|.NET, Code Smells|
+|24/6/2022|Reading Article|[](https://levelup.gitconnected.com/chain-of-responsibility-design-pattern-in-net-c-666bb4dc2816)|Medium|10|.NET, Design Patterns, Chain of Responsibility|
 
 *minutes
