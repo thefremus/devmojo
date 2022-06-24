@@ -159,6 +159,6 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |23/6/2022|Reading Article|[The Modern Developer Stack — 2022 Edition](https://betterprogramming.pub/the-modern-developer-stack-2022-edition-b5f515635c54)|Medium|9|Developer Tools|
 |24/6/2022|Reading Article|[What is the Cartesian Explosion in EF Core?](https://medium.com/@haris_tauqir/what-is-the-cartesian-explosion-in-ef-core-97470c062443)|Medium|2|.NET, Entity Framework|
 |24/6/2022|Reading Article|[Code Smell 143 — Data Clumps](https://levelup.gitconnected.com/code-smell-143-data-clumps-86cfe2f36a19)|Medium|2|.NET, Code Smells|
-|24/6/2022|Reading Article|[](https://levelup.gitconnected.com/chain-of-responsibility-design-pattern-in-net-c-666bb4dc2816)|Medium|10|.NET, Design Patterns, Chain of Responsibility|
+|24/6/2022|Reading Article|[Chain of Responsibility Design Pattern In .NET C#](https://levelup.gitconnected.com/chain-of-responsibility-design-pattern-in-net-c-666bb4dc2816)|Medium|10|.NET, Design Patterns, Chain of Responsibility|
 
 *minutes
