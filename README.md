@@ -163,5 +163,9 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |24/6/2022|Reading Documentation|[Controls](https://docs.microsoft.com/en-us/dotnet/maui/user-interface/controls/)|Microsoft Documentation|6|.NET MAUI|
 |25/6/2022|Reading Documentation|[Layouts](https://docs.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)|Microsoft Documentation|7|.NET MAUI|
 |29/6/2022|Reading Documentation|[Select an Azure data store for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree)|Microsoft Documentation|2|Azure|
+|29/6/2022|Reading Article|[Discorver the Third .NET MAUI (Release Candidate) Features!](https://medium.com/dotnetsafer/discorver-the-third-net-maui-release-candidate-features-9c11b3ed08d4)|Medium|3|.NET MAUI|
+|29/6/2022|Reading Article|[JWT Token Authentication using the .NET Core 6 Web API](https://medium.com/@jaydeepvpatil225/jwt-token-authentication-using-the-net-core-6-web-api-24e585ecc24a)|Medium|7|ASP.NET Core, JWT|
+|29/6/2022|Reading Article|[Introduction and Detail about the JWT Authentication and Authorization](https://medium.com/@jaydeepvpatil225/introduction-and-detail-about-the-jwt-authentication-and-authorization-5a812e6d154c)|Medium|7|JWT|
+|29/6/2022|Reading Article|[Using Azure function proxies for mocking API response](https://medium.com/swlh/using-azure-function-proxies-for-mocking-api-cd615dfaa41f)|Medium|4|Azure, Azure Functions|
 
 *minutes
