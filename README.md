@@ -160,5 +160,8 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |24/6/2022|Reading Article|[What is the Cartesian Explosion in EF Core?](https://medium.com/@haris_tauqir/what-is-the-cartesian-explosion-in-ef-core-97470c062443)|Medium|2|.NET, Entity Framework|
 |24/6/2022|Reading Article|[Code Smell 143 — Data Clumps](https://levelup.gitconnected.com/code-smell-143-data-clumps-86cfe2f36a19)|Medium|2|.NET, Code Smells|
 |24/6/2022|Reading Article|[Chain of Responsibility Design Pattern In .NET C#](https://levelup.gitconnected.com/chain-of-responsibility-design-pattern-in-net-c-666bb4dc2816)|Medium|10|.NET, Design Patterns, Chain of Responsibility|
+|24/6/2022|Reading Documentation|[Controls](https://docs.microsoft.com/en-us/dotnet/maui/user-interface/controls/)|Microsoft Documentation|6|.NET MAUI|
+|25/6/2022|Reading Documentation|[Layouts](https://docs.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)|Microsoft Documentation|7|.NET MAUI|
+|29/6/2022|Reading Documentation|[Select an Azure data store for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree)|Microsoft Documentation|2|Azure|
 
 *minutes
