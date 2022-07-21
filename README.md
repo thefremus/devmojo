@@ -167,5 +167,8 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |29/6/2022|Reading Article|[JWT Token Authentication using the .NET Core 6 Web API](https://medium.com/@jaydeepvpatil225/jwt-token-authentication-using-the-net-core-6-web-api-24e585ecc24a)|Medium|7|ASP.NET Core, JWT|
 |29/6/2022|Reading Article|[Introduction and Detail about the JWT Authentication and Authorization](https://medium.com/@jaydeepvpatil225/introduction-and-detail-about-the-jwt-authentication-and-authorization-5a812e6d154c)|Medium|7|JWT|
 |29/6/2022|Reading Article|[Using Azure function proxies for mocking API response](https://medium.com/swlh/using-azure-function-proxies-for-mocking-api-cd615dfaa41f)|Medium|4|Azure, Azure Functions|
+|21/7/2022|Reading Article|[5 C# Tips from a Senior Developer to Help You Program Better](https://medium.com/dotnetsafer/5-c-tips-from-a-senior-developer-to-help-you-program-better-ef8351829403)|Medium|4|CSharp|
+|21/7/2022|Reading Article|[Microsoft Releases New .NET Rate Limiter in .NET 7 — And It’s Amazing!🤯](https://medium.com/dotnetsafer/microsoft-releases-new-net-rate-limiter-in-net-7-and-its-amazing-cde5dee8aeae)|Medium|9|CSharp, RateLimiting, ASP.NET|
+|21/7/2022|Reading Article|[Entity Framework Core and high performance](https://medium.com/@anton_shyrokykh/entity-framework-core-and-high-performance-b68e107972d4)|Medium|11|EF Core|
 
 *minutes
