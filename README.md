@@ -170,5 +170,10 @@ I have been asked in many interviews how I remain up-to-date on the latest trend
 |21/7/2022|Reading Article|[5 C# Tips from a Senior Developer to Help You Program Better](https://medium.com/dotnetsafer/5-c-tips-from-a-senior-developer-to-help-you-program-better-ef8351829403)|Medium|4|CSharp|
 |21/7/2022|Reading Article|[Microsoft Releases New .NET Rate Limiter in .NET 7 — And It’s Amazing!🤯](https://medium.com/dotnetsafer/microsoft-releases-new-net-rate-limiter-in-net-7-and-its-amazing-cde5dee8aeae)|Medium|9|CSharp, RateLimiting, ASP.NET|
 |21/7/2022|Reading Article|[Entity Framework Core and high performance](https://medium.com/@anton_shyrokykh/entity-framework-core-and-high-performance-b68e107972d4)|Medium|11|EF Core|
+|16/08/2022|Reading Article|[.NET v7.0 Features Will Change the Way You Code](https://nilebits.medium.com/net-v7-0-features-will-change-the-way-you-code-a12f95a8ae87)|Medium|4|.NET 7.0|
+|16/08/2022|Reading Article|[How to create an effective test-automation strategy (v2)](https://abstarreveld.medium.com/how-to-create-an-effective-test-automation-strategy-v2-5232e3f4bfc4)|Medium|9|Testing|
+|16/08/2022|Watching video|[Stop using the HttpClient the wrong way in .NET](https://www.youtube.com/watch?v=Z6Y2adsMnAA&t=91s)|YouTube|10|.NET|
+|16/08/2022|Reading Article|[Understanding the power of yield return](https://medium.com/geekculture/understanding-the-power-of-yield-return-c3886668375d)|Medium|4|.NET, yield|
+|16/08/2022|Reading Question|[What is the purpose/advantage of using yield return iterators in C#?](https://stackoverflow.com/questions/1088442/what-is-the-purpose-advantage-of-using-yield-return-iterators-in-c)|StackOverflow|5|.NET yield|
 
 *minutes
