@@ -73,13 +73,13 @@ I used the focus areas and asked ChatGPT to assist me in creating a plan for lea
 - 10 articles on ReactJS
 - 7 articles on Node.js
 
-The important thing about a growth plan is it must be measurable - you have to measure your progress. A growth plan must also be flexible - you cannot layout your goals for 2023 in a brittle way. Life will throw curve balls at you. But at least I have a target - to write 37 pieces on the technologies I use. The next step was to break down the writing into two week cycles - for two weeks I focus on Azure, then write something. For the next two weeks its .NET, write something, etc. It provides me with a plan. Instead of writing in a hit and miss fashion. Being focused is very important. But it also allows me to focus on a variety of technologies. The key to making all this work is to commit to and execute on the daily 30 to 60 minute learning. I have to remember - its not about perfection. Progress is the key. So even if I do not know a lot about Cosmos DB after two weeks I will have known more than I did the previous two weeks. 
+The important thing about a growth plan is it must be measurable - you have to measure your progress. A growth plan must also be flexible - you cannot layout your goals for 2023 in a brittle way. Life will throw curve balls at you. But at least I have a target - to write 37 pieces on the technologies I use. The next step was to break down the writing into two week cycles - for two weeks I focus on Azure, then write something after every week. For the next two weeks after its .NET, write something every week, etc. It provides me with a plan. Instead of writing in a hit and miss fashion. Being focused is very important. But it also allows me to focus on a variety of technologies. The key to making all this work is to commit to and execute on the daily 30 to 60 minute learning. I have to remember - its not about perfection. Progress is the key. So even if I do not know a lot about Cosmos DB after two weeks I will have known more than I did the previous two weeks. 
 
 So I asked ChatGPT to render a table for me containing the weeks and the subject area. 
 
 ![How I used ChatGPT](img/how-i-use-chatgpt-2.png)
 
-I was not quite finished yet. I then asked it to amend the table several times - and this is the part that makes it such a great experience. At each conversation point it knows I referred to the table. Just think how the time it would have taken me to manually edit and update the table in Markdown.
+I was not quite finished yet. I then asked it to amend the table several times - and this is the part that makes it such a great experience. At each conversation point it knows I referred to the table. Just think how the time it would have taken me to manually edit and update the table in Markdown. The image below is redacted.
 
 ![How I used ChatGPT](img/how-i-use-chatgpt-3.png)
 
